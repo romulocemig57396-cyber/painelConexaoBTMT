@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Histórico — Medidas Pendentes (COMT/COBT)</title>
+  <meta name="robots" content="noindex" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/estilo.css" />
+</head>
+<body>
+  <header class="cabecalho">
+    <div class="cabecalho__faixa"></div>
+    <div class="cabecalho__conteudo">
+      <div>
+        <span class="cabecalho__eyebrow">Painel de medidas pendentes</span>
+        <h1>Histórico — Aprovação, Liberação e Universalização</h1>
+      </div>
+      <div class="cabecalho__atualizacao" id="atualizado-em">Carregando dados…</div>
+    </div>
+  </header>
+
+  <main class="conteudo">
+    <p class="aviso-publico">
+      Esta página é uma versão estática e somente leitura, publicada para consulta externa. Mostra apenas
+      contagens agregadas por mês e categoria — não contém número de nota, matrícula ou qualquer dado individual.
+    </p>
+
+    <section class="filtros-bar" id="filtros">
+      <div class="filtros-bar__campo">
+        <label for="filtro-servico">Serviço</label>
+        <select id="filtro-servico">
+          <option value="COMT">COMT</option>
+          <option value="COBT">COBT</option>
+        </select>
+      </div>
+      <div class="filtros-bar__campo">
+        <label for="filtro-mercado">Mercado</label>
+        <select id="filtro-mercado">
+          <option value="TODOS">Todos</option>
+          <option value="URBANO">Urbano</option>
+          <option value="RURAL">Rural</option>
+        </select>
+      </div>
+    </section>
+
+    <div id="area-graficos">
+      <section class="grafico-wrapper" data-grafico="aprovacao">
+        <h2 class="grafico-titulo">Aprovação de pedidos (medida 0019)</h2>
+        <p class="grafico-legenda-mes"></p>
+        <div class="grafico-corpo"></div>
+        <div class="grafico-rodape"></div>
+      </section>
+
+      <section class="grafico-wrapper" data-grafico="liberacao">
+        <h2 class="grafico-titulo">Tipo de liberação (medidas 0590 / 0550 / 0501)</h2>
+        <p class="grafico-legenda-mes"></p>
+        <div class="grafico-corpo"></div>
+        <div class="grafico-rodape"></div>
+      </section>
+
+      <section class="grafico-wrapper" data-grafico="universalizacao">
+        <h2 class="grafico-titulo">Universalização de obras (medida 0590)</h2>
+        <p class="grafico-legenda-mes"></p>
+        <div class="grafico-corpo"></div>
+        <div class="grafico-rodape"></div>
+      </section>
+    </div>
+
+    <p class="erro-carga" id="erro-carga" hidden></p>
+  </main>
+
+  <div class="tooltip-flutuante" id="tooltip" hidden></div>
+
+  <script src="js/principal.js"></script>
+</body>
+</html>

@@ -1,0 +1,4761 @@
+{
+  "geradoEm": "2026-08-07T15:37:52.578Z",
+  "servicos": [
+    "COMT",
+    "COBT"
+  ],
+  "mercados": [
+    "TODOS",
+    "URBANO",
+    "RURAL"
+  ],
+  "dados": {
+    "COMT": {
+      "TODOS": {
+        "aprovacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 143
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 32
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 95
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 176
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 36
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 156
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 119
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 16
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 131
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 160
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 20
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 147
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 159
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 30
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 161
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 181
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 26
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 243
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 187
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 39
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 200
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 117
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 36
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 176
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "APROVADO",
+            "QTD": 127
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 25
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 181
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "APROVADO",
+            "QTD": 124
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 12
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 206
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "APROVADO",
+            "QTD": 150
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 18
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 163
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "APROVADO",
+            "QTD": 95
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 183
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 121
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 11
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 124
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 135
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 9
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 160
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 156
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 16
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 194
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 129
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 15
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 121
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 147
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 13
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 137
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 130
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 8
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 147
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 138
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 4
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 137
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 19
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 25
+          }
+        ],
+        "liberacao": [
+          {
+            "MES": "2025-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 113
+          },
+          {
+            "MES": "2025-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 17
+          },
+          {
+            "MES": "2025-01",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 21
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 99
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 28
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 21
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 114
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 22
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 8
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 111
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 24
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 26
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 89
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 33
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 29
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 96
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 53
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 34
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 129
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 22
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 32
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 114
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 17
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 21
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "COM_OBRAS",
+            "QTD": 90
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 13
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 22
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "COM_OBRAS",
+            "QTD": 90
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 16
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 13
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "COM_OBRAS",
+            "QTD": 80
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 25
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 22
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "COM_OBRAS",
+            "QTD": 102
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 22
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 8
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 81
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 8
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 27
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 70
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 19
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 34
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 98
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 18
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 42
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 78
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 25
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 35
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 96
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 18
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 37
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 69
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 19
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 32
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 85
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 26
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 24
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 11
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 4
+          }
+        ],
+        "universalizacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 109
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 98
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "OUTROS",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 110
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 111
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 89
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 96
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 126
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 3
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 114
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 84
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "OUTROS",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 84
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "OUTROS",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 73
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "OUTROS",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 96
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "OUTROS",
+            "QTD": 6
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 78
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 3
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 70
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 93
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 3
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 75
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 94
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 66
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "OUTROS",
+            "QTD": 3
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 83
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 11
+          }
+        ]
+      },
+      "URBANO": {
+        "aprovacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 78
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 25
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 39
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 91
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 22
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 66
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 61
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 54
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 79
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 14
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 65
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 100
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 25
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 100
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 117
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 20
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 112
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 97
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 24
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 89
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 48
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 19
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 85
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "APROVADO",
+            "QTD": 71
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 16
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 71
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "APROVADO",
+            "QTD": 59
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 87
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "APROVADO",
+            "QTD": 73
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 14
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 66
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "APROVADO",
+            "QTD": 51
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 67
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 67
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 52
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 84
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 5
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 81
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 78
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 9
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 89
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 72
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 10
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 59
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 80
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 9
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 66
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 78
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 6
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 77
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 74
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 63
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 11
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 9
+          }
+        ],
+        "liberacao": [
+          {
+            "MES": "2025-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 58
+          },
+          {
+            "MES": "2025-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-01",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 15
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 45
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 25
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 19
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 41
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 14
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 8
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 50
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 16
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 19
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 29
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 23
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 25
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 51
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 49
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 28
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 66
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 15
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 24
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 39
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 16
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "COM_OBRAS",
+            "QTD": 42
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 11
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 20
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "COM_OBRAS",
+            "QTD": 40
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 8
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "COM_OBRAS",
+            "QTD": 34
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 18
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 12
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "COM_OBRAS",
+            "QTD": 39
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 16
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 6
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 31
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 21
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 42
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 11
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 27
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 44
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 11
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 32
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 35
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 17
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 21
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 52
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 12
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 24
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 26
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 11
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 25
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 47
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 17
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 17
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 4
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2
+          }
+        ],
+        "universalizacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 54
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 45
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 39
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 50
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 29
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 51
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 64
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 39
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 38
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "OUTROS",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 34
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "OUTROS",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 30
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "OUTROS",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 34
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "OUTROS",
+            "QTD": 5
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 28
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 3
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 42
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 43
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 32
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 51
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "OUTROS",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 24
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 47
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 4
+          }
+        ]
+      },
+      "RURAL": {
+        "aprovacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 65
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 56
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 85
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 14
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 90
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 58
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 9
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 77
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 81
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 82
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 59
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 5
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 61
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 64
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 131
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 90
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 15
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 111
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 69
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 17
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 91
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "APROVADO",
+            "QTD": 56
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 9
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 110
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "APROVADO",
+            "QTD": 65
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 5
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 119
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "APROVADO",
+            "QTD": 77
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 97
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "APROVADO",
+            "QTD": 44
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 116
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 54
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 4
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 72
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 51
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 4
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 79
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 78
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 105
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 57
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 5
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 62
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 67
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 4
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 71
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 52
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 70
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 64
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 74
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 8
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 16
+          }
+        ],
+        "liberacao": [
+          {
+            "MES": "2025-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 55
+          },
+          {
+            "MES": "2025-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-01",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 54
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 2
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 73
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 8
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 61
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 8
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 60
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 45
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 63
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 8
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 75
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 5
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "COM_OBRAS",
+            "QTD": 48
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 2
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "COM_OBRAS",
+            "QTD": 50
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 5
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "COM_OBRAS",
+            "QTD": 46
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "COM_OBRAS",
+            "QTD": 63
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 50
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 6
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 28
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 8
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 54
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 10
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 43
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 8
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 14
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 44
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 13
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 43
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 8
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 38
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 9
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 4
+          }
+        ],
+        "universalizacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 55
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 53
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "OUTROS",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 71
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 61
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 60
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 45
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 62
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 75
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 46
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 50
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 43
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "OUTROS",
+            "QTD": 3
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 62
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "OUTROS",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 50
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 28
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 50
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 43
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 43
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "OUTROS",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 42
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "OUTROS",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 36
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 7
+          }
+        ]
+      }
+    },
+    "COBT": {
+      "TODOS": {
+        "aprovacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 7766
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 987
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 3279
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 8586
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 890
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 4297
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 9695
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 762
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 5358
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 10626
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 762
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 6210
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 8289
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 728
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 5612
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 9982
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 923
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 6187
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 11417
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 987
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 6442
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 10712
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 1332
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 4798
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "APROVADO",
+            "QTD": 10260
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 982
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 5499
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "APROVADO",
+            "QTD": 10207
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 1066
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 7416
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "APROVADO",
+            "QTD": 10019
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 965
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 9243
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "APROVADO",
+            "QTD": 5645
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 589
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 7815
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 6714
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 650
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 8591
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 6481
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 626
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 6986
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 7677
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 764
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 8539
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 7497
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 841
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 8143
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 7011
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 867
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 7852
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 7982
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 858
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 6784
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 11201
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 610
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 9708
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 1891
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 37
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1423
+          }
+        ],
+        "liberacao": [
+          {
+            "MES": "2025-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2919
+          },
+          {
+            "MES": "2025-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 5219
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2539
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6023
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2751
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6333
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 3514
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 7136
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2970
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 5587
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 3067
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6540
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 3801
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 7480
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 3556
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 7254
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "COM_OBRAS",
+            "QTD": 3853
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6600
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "COM_OBRAS",
+            "QTD": 3621
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6995
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2845
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6894
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2730
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3873
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 1966
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 4332
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 1930
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 4180
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2818
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 5029
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2505
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 5069
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2554
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 4477
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2651
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 5281
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 3171
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 6411
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 546
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 1002
+          }
+        ],
+        "universalizacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1541
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 564
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 814
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1228
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "OUTROS",
+            "QTD": 477
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 834
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1159
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 512
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1080
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1523
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "OUTROS",
+            "QTD": 540
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1451
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1297
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "OUTROS",
+            "QTD": 446
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1227
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1422
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "OUTROS",
+            "QTD": 424
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1221
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1775
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 341
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1685
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1697
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "OUTROS",
+            "QTD": 282
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1577
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1976
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "OUTROS",
+            "QTD": 342
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1535
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1847
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "OUTROS",
+            "QTD": 414
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1360
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1468
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "OUTROS",
+            "QTD": 282
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1095
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1399
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "OUTROS",
+            "QTD": 275
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1056
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 981
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 277
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 708
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1025
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "OUTROS",
+            "QTD": 238
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 667
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1454
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 408
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 956
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1339
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "OUTROS",
+            "QTD": 355
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 811
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1312
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "OUTROS",
+            "QTD": 364
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 878
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1351
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "OUTROS",
+            "QTD": 458
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 842
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1727
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 494
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 950
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 299
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "OUTROS",
+            "QTD": 94
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 153
+          }
+        ]
+      },
+      "URBANO": {
+        "aprovacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3133
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 466
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 984
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3674
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 407
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1121
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3763
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 339
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1380
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 4117
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 336
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1676
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3213
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 337
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1583
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3902
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 409
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1875
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 4127
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 409
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 2022
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3749
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 432
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1461
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3695
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 414
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1771
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3885
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 428
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1824
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "APROVADO",
+            "QTD": 4428
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 409
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 2223
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3149
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 309
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1433
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3557
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 313
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1623
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3177
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 261
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1313
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 4186
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 339
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1827
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 4335
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 350
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 2066
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3636
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 335
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1949
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 4198
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 349
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1594
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 5617
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 305
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 2332
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 851
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 23
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 393
+          }
+        ],
+        "liberacao": [
+          {
+            "MES": "2025-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 613
+          },
+          {
+            "MES": "2025-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2557
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 532
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3217
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 610
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3076
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 700
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3347
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 661
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2587
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 750
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3152
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 758
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3349
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 711
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3091
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "COM_OBRAS",
+            "QTD": 747
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2903
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "COM_OBRAS",
+            "QTD": 802
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3170
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SERVICOS_REDE",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "COM_OBRAS",
+            "QTD": 661
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3592
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "COM_OBRAS",
+            "QTD": 765
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2621
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 624
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2913
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 495
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2565
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 818
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3347
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 756
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3616
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 707
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2863
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 852
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3357
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 1006
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 4237
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 182
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 649
+          }
+        ],
+        "universalizacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 273
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 152
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 188
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 246
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "OUTROS",
+            "QTD": 128
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 158
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 228
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 155
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 227
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 290
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "OUTROS",
+            "QTD": 138
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 272
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 280
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "OUTROS",
+            "QTD": 142
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 239
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 335
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "OUTROS",
+            "QTD": 149
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 266
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 331
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 155
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 272
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 340
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "OUTROS",
+            "QTD": 120
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 251
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 322
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "OUTROS",
+            "QTD": 178
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 247
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 340
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "OUTROS",
+            "QTD": 245
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 217
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 302
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "OUTROS",
+            "QTD": 189
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 170
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 321
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "OUTROS",
+            "QTD": 219
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 225
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 221
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 248
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 155
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 189
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "OUTROS",
+            "QTD": 191
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 115
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 284
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 367
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 167
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 299
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "OUTROS",
+            "QTD": 334
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 123
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 244
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "OUTROS",
+            "QTD": 339
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 124
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 271
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "OUTROS",
+            "QTD": 436
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 145
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 368
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 466
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 172
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 69
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "OUTROS",
+            "QTD": 84
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 29
+          }
+        ]
+      },
+      "RURAL": {
+        "aprovacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 4633
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 521
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 2295
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 4912
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 483
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 3176
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 5932
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 423
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 3978
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 6509
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 426
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 4534
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 5076
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 391
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 4029
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 6080
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 514
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 4312
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 7290
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 578
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 4420
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 6963
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 900
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 3337
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "APROVADO",
+            "QTD": 6565
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 568
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 3728
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "APROVADO",
+            "QTD": 6322
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 638
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 5592
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "APROVADO",
+            "QTD": 5591
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 556
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 7020
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "APROVADO",
+            "QTD": 2496
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 280
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 6382
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3157
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 337
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 6968
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3304
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 365
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 5673
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3491
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 425
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 6712
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3162
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 491
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 6077
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3375
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 532
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 5903
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "APROVADO",
+            "QTD": 3784
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 509
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 5190
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "APROVADO",
+            "QTD": 5584
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 305
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 7376
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "APROVADO",
+            "QTD": 1040
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 14
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1030
+          }
+        ],
+        "liberacao": [
+          {
+            "MES": "2025-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2306
+          },
+          {
+            "MES": "2025-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2662
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2007
+          },
+          {
+            "MES": "2025-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2806
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2141
+          },
+          {
+            "MES": "2025-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3257
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2814
+          },
+          {
+            "MES": "2025-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3789
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2309
+          },
+          {
+            "MES": "2025-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3000
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2317
+          },
+          {
+            "MES": "2025-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3388
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 3043
+          },
+          {
+            "MES": "2025-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 4131
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2845
+          },
+          {
+            "MES": "2025-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 4163
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "COM_OBRAS",
+            "QTD": 3106
+          },
+          {
+            "MES": "2025-09",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3697
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2819
+          },
+          {
+            "MES": "2025-10",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3825
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2184
+          },
+          {
+            "MES": "2025-11",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 3302
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "COM_OBRAS",
+            "QTD": 1965
+          },
+          {
+            "MES": "2025-12",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 1252
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "COM_OBRAS",
+            "QTD": 1342
+          },
+          {
+            "MES": "2026-01",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 1419
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "COM_OBRAS",
+            "QTD": 1435
+          },
+          {
+            "MES": "2026-02",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 1615
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2000
+          },
+          {
+            "MES": "2026-03",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 1682
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "COM_OBRAS",
+            "QTD": 1749
+          },
+          {
+            "MES": "2026-04",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 1453
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "COM_OBRAS",
+            "QTD": 1847
+          },
+          {
+            "MES": "2026-05",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 1614
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "COM_OBRAS",
+            "QTD": 1799
+          },
+          {
+            "MES": "2026-06",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 1924
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "COM_OBRAS",
+            "QTD": 2165
+          },
+          {
+            "MES": "2026-07",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 2174
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "COM_OBRAS",
+            "QTD": 364
+          },
+          {
+            "MES": "2026-08",
+            "TIPO": "SEM_OBRAS",
+            "QTD": 353
+          }
+        ],
+        "universalizacao": [
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1268
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 412
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 626
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 982
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "OUTROS",
+            "QTD": 349
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 676
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 931
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 357
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 853
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1233
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "OUTROS",
+            "QTD": 402
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1179
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1017
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "OUTROS",
+            "QTD": 304
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 988
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1087
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "OUTROS",
+            "QTD": 275
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 955
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1444
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 186
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1413
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1357
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "OUTROS",
+            "QTD": 162
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1326
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1654
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "OUTROS",
+            "QTD": 164
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1288
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1507
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "OUTROS",
+            "QTD": 169
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1143
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1166
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "OUTROS",
+            "QTD": 93
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 925
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1078
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "OUTROS",
+            "QTD": 56
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 831
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 760
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "OUTROS",
+            "QTD": 29
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 553
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 836
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "OUTROS",
+            "QTD": 47
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 552
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1170
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "OUTROS",
+            "QTD": 41
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 789
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1040
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "OUTROS",
+            "QTD": 21
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 688
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1068
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "OUTROS",
+            "QTD": 25
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 754
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1080
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "OUTROS",
+            "QTD": 22
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 697
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1359
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "OUTROS",
+            "QTD": 28
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 778
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 230
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "OUTROS",
+            "QTD": 10
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 124
+          }
+        ]
+      }
+    }
+  }
+}
