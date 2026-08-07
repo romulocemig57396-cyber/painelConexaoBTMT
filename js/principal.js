@@ -8,6 +8,15 @@ const PERCENTUAL_MINIMO_ROTULO = 5;
 
 const NOMES_MES = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'];
 
+// Mesma lista de client/src/App.jsx (SERVICOS_HISTORICO) e server/src/config.js
+// (regrasHistorico.servicosDisponiveis). O JSON estático tem cada um desses 12
+// exportado individualmente — quando o usuário seleciona vários, o site soma
+// no cliente (ver somarLinhas), sem precisar de combos pré-calculados.
+const SERVICOS_HISTORICO = [
+  'COMT', 'COBT', 'PSAA', 'PSER', 'PSAC', 'PSRP', 'PSAG', 'PSAI', 'PSAF', 'PSSG', 'PSIP', 'PSST',
+];
+const MERCADOS_HISTORICO = ['URBANO', 'RURAL'];
+
 function formatarMesAno(mes) {
   const [ano, m] = mes.split('-');
   return `${NOMES_MES[Number(m) - 1]}/${ano.slice(2)}`;
@@ -68,6 +77,25 @@ function montarDados(linhas, categorias, campoCategoria) {
     const total = categorias.reduce((soma, cat) => soma + (bruto[cat.key] || 0), 0);
     return { mes, bruto, total };
   });
+}
+
+// Soma QTD de várias listas de linhas {MES, [campoCategoria], QTD} agrupando
+// por MES+categoria — usado pra somar os serviços selecionados (cada um
+// exportado individualmente no JSON) antes de montar os dados do gráfico.
+function somarLinhas(listasDeLinhas, campoCategoria) {
+  const mapa = new Map();
+  listasDeLinhas.forEach((linhas) => {
+    linhas.forEach((linha) => {
+      const chave = `${linha.MES}__${linha[campoCategoria]}`;
+      const acumulada = mapa.get(chave);
+      if (acumulada) {
+        acumulada.QTD += linha.QTD;
+      } else {
+        mapa.set(chave, { MES: linha.MES, [campoCategoria]: linha[campoCategoria], QTD: linha.QTD });
+      }
+    });
+  });
+  return [...mapa.values()];
 }
 
 // Mesmo algoritmo de "nice numbers" usado por libs de gráfico para escolher um
@@ -346,43 +374,68 @@ function desenharGrafico(container, rodapeEl, legendaMesEl, dados, categorias) {
   });
 }
 
-function aplicarFiltros(dadosCompletos, servico, mercado) {
-  const combinacao = dadosCompletos.dados?.[servico]?.[mercado];
-  if (!combinacao) return;
+// servicosSelecionados: array de 1-12 códigos (cada um já vem individual no
+// JSON). mercadosSelecionados: array de 1-2 valores ('URBANO'/'RURAL') — os
+// dois juntos usam o bucket 'TODOS' já pré-calculado (mesma semântica de
+// "sem filtro de mercado" do backend), em vez de somar Urbano+Rural no
+// cliente, pra ficar idêntico ao que a API retornaria sem o filtro.
+function aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados) {
+  const bucketsMercado =
+    mercadosSelecionados.length === MERCADOS_HISTORICO.length ? ['TODOS'] : mercadosSelecionados;
 
   GRAFICOS.forEach((grafico) => {
     const wrapper = document.querySelector(`.grafico-wrapper[data-grafico="${grafico.chave}"]`);
     const corpo = wrapper.querySelector('.grafico-corpo');
     const rodape = wrapper.querySelector('.grafico-rodape');
     const legendaMes = wrapper.querySelector('.grafico-legenda-mes');
-    const linhas = combinacao[grafico.chave] || [];
+
+    const listas = [];
+    servicosSelecionados.forEach((servico) => {
+      bucketsMercado.forEach((mercado) => {
+        const combinacao = dadosCompletos.dados?.[servico]?.[mercado];
+        if (combinacao) listas.push(combinacao[grafico.chave] || []);
+      });
+    });
+
+    const linhas = somarLinhas(listas, grafico.campoCategoria);
     const dados = montarDados(linhas, grafico.categorias, grafico.campoCategoria);
     desenharGrafico(corpo, rodape, legendaMes, dados, grafico.categorias);
   });
 }
 
-// Mesmo padrão visual/comportamental do ChipMultiFilter do app React (clique
-// isola a opção, chip "Todos" reseta) — aqui simplificado pra single-select,
-// já que o JSON estático só tem os 3 buckets pré-calculados (TODOS/URBANO/RURAL,
-// COMT/COBT), sem combinação dinâmica no cliente.
-function criarChipGroup(container, { opcoes, valorAtivo, aoSelecionar, chipTodos }) {
+// Mesmo padrão visual/comportamental do ChipMultiFilter do app React: clique
+// isola a opção (só ela fica marcada), Ctrl/Cmd+clique combina (soma/remove
+// do conjunto), clique em "Todos" marca todas.
+function criarChipMultiFiltro(container, { opcoes, selecionadas, aoMudar }) {
   container.innerHTML = '';
   const lista = document.createElement('div');
   lista.className = 'chip-list';
 
-  function criarBotao(valor, rotulo, classeExtra) {
+  const todasSelecionadas = selecionadas.length === opcoes.length;
+  const botaoTodos = document.createElement('button');
+  botaoTodos.type = 'button';
+  botaoTodos.className = `chip chip--todos ${todasSelecionadas ? 'chip--ativo' : ''}`;
+  botaoTodos.textContent = 'Todos';
+  botaoTodos.addEventListener('click', () => aoMudar([...opcoes]));
+  lista.appendChild(botaoTodos);
+
+  opcoes.forEach((valor) => {
     const botao = document.createElement('button');
     botao.type = 'button';
-    botao.className = `chip ${classeExtra || ''} ${valorAtivo === valor ? 'chip--ativo' : ''}`.trim();
-    botao.textContent = rotulo;
-    botao.addEventListener('click', () => aoSelecionar(valor));
-    return botao;
-  }
-
-  if (chipTodos) {
-    lista.appendChild(criarBotao(chipTodos.valor, chipTodos.rotulo, 'chip--todos'));
-  }
-  opcoes.forEach((op) => lista.appendChild(criarBotao(op.valor, op.rotulo)));
+    botao.className = `chip ${selecionadas.includes(valor) ? 'chip--ativo' : ''}`;
+    botao.textContent = valor;
+    botao.addEventListener('click', (evento) => {
+      const combinar = evento.ctrlKey || evento.metaKey;
+      if (combinar) {
+        aoMudar(
+          selecionadas.includes(valor) ? selecionadas.filter((v) => v !== valor) : [...selecionadas, valor],
+        );
+      } else {
+        aoMudar([valor]);
+      }
+    });
+    lista.appendChild(botao);
+  });
 
   container.appendChild(lista);
 }
@@ -400,39 +453,34 @@ async function iniciar() {
 
     elAtualizado.textContent = `Dados atualizados em: ${formatarDataHora(dadosCompletos.geradoEm)}`;
 
-    let servicoAtivo = 'COMT';
-    let mercadoAtivo = 'TODOS';
+    // Serviço começa só com COMT (mesmo default do app React); mercado começa
+    // com os dois marcados (= "Todos").
+    let servicosSelecionados = ['COMT'];
+    let mercadosSelecionados = [...MERCADOS_HISTORICO];
 
     function renderizarFiltros() {
-      criarChipGroup(elChipsServico, {
-        opcoes: [
-          { valor: 'COMT', rotulo: 'COMT' },
-          { valor: 'COBT', rotulo: 'COBT' },
-        ],
-        valorAtivo: servicoAtivo,
-        aoSelecionar: (valor) => {
-          servicoAtivo = valor;
+      criarChipMultiFiltro(elChipsServico, {
+        opcoes: SERVICOS_HISTORICO,
+        selecionadas: servicosSelecionados,
+        aoMudar: (novaSelecao) => {
+          servicosSelecionados = novaSelecao;
           renderizarFiltros();
-          aplicarFiltros(dadosCompletos, servicoAtivo, mercadoAtivo);
+          aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados);
         },
       });
-      criarChipGroup(elChipsMercado, {
-        opcoes: [
-          { valor: 'URBANO', rotulo: 'Urbano' },
-          { valor: 'RURAL', rotulo: 'Rural' },
-        ],
-        chipTodos: { valor: 'TODOS', rotulo: 'Todos' },
-        valorAtivo: mercadoAtivo,
-        aoSelecionar: (valor) => {
-          mercadoAtivo = valor;
+      criarChipMultiFiltro(elChipsMercado, {
+        opcoes: MERCADOS_HISTORICO,
+        selecionadas: mercadosSelecionados,
+        aoMudar: (novaSelecao) => {
+          mercadosSelecionados = novaSelecao;
           renderizarFiltros();
-          aplicarFiltros(dadosCompletos, servicoAtivo, mercadoAtivo);
+          aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados);
         },
       });
     }
 
     renderizarFiltros();
-    aplicarFiltros(dadosCompletos, servicoAtivo, mercadoAtivo);
+    aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados);
   } catch (err) {
     elAtualizado.textContent = 'Falha ao carregar os dados.';
     elErro.hidden = false;
