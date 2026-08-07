@@ -133,6 +133,43 @@ select {
   background: #fff;
 }
 
+.chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid var(--card-border);
+  background: #fff;
+  padding: 5px 14px;
+  border-radius: var(--radius-pill);
+  font: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.chip:hover {
+  border-color: var(--petrol-green);
+  color: var(--text-body);
+}
+
+.chip--todos {
+  margin-right: 4px;
+  border-style: dashed;
+}
+
+.chip--ativo,
+.chip--ativo:hover {
+  background: var(--petrol-green);
+  border-color: var(--petrol-green);
+  color: #fff;
+}
+
 /* ---------- Gráficos ---------- */
 #area-graficos {
   display: flex;

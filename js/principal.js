@@ -361,11 +361,37 @@ function aplicarFiltros(dadosCompletos, servico, mercado) {
   });
 }
 
+// Mesmo padrão visual/comportamental do ChipMultiFilter do app React (clique
+// isola a opção, chip "Todos" reseta) — aqui simplificado pra single-select,
+// já que o JSON estático só tem os 3 buckets pré-calculados (TODOS/URBANO/RURAL,
+// COMT/COBT), sem combinação dinâmica no cliente.
+function criarChipGroup(container, { opcoes, valorAtivo, aoSelecionar, chipTodos }) {
+  container.innerHTML = '';
+  const lista = document.createElement('div');
+  lista.className = 'chip-list';
+
+  function criarBotao(valor, rotulo, classeExtra) {
+    const botao = document.createElement('button');
+    botao.type = 'button';
+    botao.className = `chip ${classeExtra || ''} ${valorAtivo === valor ? 'chip--ativo' : ''}`.trim();
+    botao.textContent = rotulo;
+    botao.addEventListener('click', () => aoSelecionar(valor));
+    return botao;
+  }
+
+  if (chipTodos) {
+    lista.appendChild(criarBotao(chipTodos.valor, chipTodos.rotulo, 'chip--todos'));
+  }
+  opcoes.forEach((op) => lista.appendChild(criarBotao(op.valor, op.rotulo)));
+
+  container.appendChild(lista);
+}
+
 async function iniciar() {
   const elAtualizado = document.getElementById('atualizado-em');
   const elErro = document.getElementById('erro-carga');
-  const selServico = document.getElementById('filtro-servico');
-  const selMercado = document.getElementById('filtro-mercado');
+  const elChipsServico = document.getElementById('chips-servico');
+  const elChipsMercado = document.getElementById('chips-mercado');
 
   try {
     const resp = await fetch('./data/historico.json', { cache: 'no-store' });
@@ -374,10 +400,39 @@ async function iniciar() {
 
     elAtualizado.textContent = `Dados atualizados em: ${formatarDataHora(dadosCompletos.geradoEm)}`;
 
-    const atualizar = () => aplicarFiltros(dadosCompletos, selServico.value, selMercado.value);
-    selServico.addEventListener('change', atualizar);
-    selMercado.addEventListener('change', atualizar);
-    atualizar();
+    let servicoAtivo = 'COMT';
+    let mercadoAtivo = 'TODOS';
+
+    function renderizarFiltros() {
+      criarChipGroup(elChipsServico, {
+        opcoes: [
+          { valor: 'COMT', rotulo: 'COMT' },
+          { valor: 'COBT', rotulo: 'COBT' },
+        ],
+        valorAtivo: servicoAtivo,
+        aoSelecionar: (valor) => {
+          servicoAtivo = valor;
+          renderizarFiltros();
+          aplicarFiltros(dadosCompletos, servicoAtivo, mercadoAtivo);
+        },
+      });
+      criarChipGroup(elChipsMercado, {
+        opcoes: [
+          { valor: 'URBANO', rotulo: 'Urbano' },
+          { valor: 'RURAL', rotulo: 'Rural' },
+        ],
+        chipTodos: { valor: 'TODOS', rotulo: 'Todos' },
+        valorAtivo: mercadoAtivo,
+        aoSelecionar: (valor) => {
+          mercadoAtivo = valor;
+          renderizarFiltros();
+          aplicarFiltros(dadosCompletos, servicoAtivo, mercadoAtivo);
+        },
+      });
+    }
+
+    renderizarFiltros();
+    aplicarFiltros(dadosCompletos, servicoAtivo, mercadoAtivo);
   } catch (err) {
     elAtualizado.textContent = 'Falha ao carregar os dados.';
     elErro.hidden = false;
