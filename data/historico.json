@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-11T12:09:54.234Z",
+  "geradoEm": "2026-08-11T17:11:42.151Z",
   "servicos": [
     "COMT",
     "COBT",
@@ -629,13 +629,18 @@
         "universalizacao": [
           {
             "MES": "2025-01",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-01",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 109
           },
           {
-            "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
+            "MES": "2025-02",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
           },
           {
             "MES": "2025-02",
@@ -643,19 +648,14 @@
             "QTD": 98
           },
           {
-            "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
+            "MES": "2025-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
           },
           {
             "MES": "2025-03",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 110
-          },
-          {
-            "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
           },
           {
             "MES": "2025-04",
@@ -674,13 +674,13 @@
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 126
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 126
           },
           {
             "MES": "2025-08",
@@ -689,12 +689,17 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 84
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 84
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 6
           },
           {
@@ -703,9 +708,9 @@
             "QTD": 84
           },
           {
-            "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
+            "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 7
           },
           {
             "MES": "2025-11",
@@ -713,9 +718,9 @@
             "QTD": 73
           },
           {
-            "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 7
+            "MES": "2025-12",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2025-12",
@@ -723,19 +728,14 @@
             "QTD": 96
           },
           {
-            "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
+            "MES": "2026-01",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2026-01",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 78
-          },
-          {
-            "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
           },
           {
             "MES": "2026-02",
@@ -744,17 +744,22 @@
           },
           {
             "MES": "2026-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
+          },
+          {
+            "MES": "2026-03",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 93
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 2
           },
           {
-            "MES": "2026-03",
-            "CATEGORIA": "UNIVERSALIZADA",
+            "MES": "2026-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 2
           },
           {
@@ -764,13 +769,13 @@
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
-          },
-          {
-            "MES": "2026-04",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 1
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2026-05",
@@ -778,9 +783,9 @@
             "QTD": 94
           },
           {
-            "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
+            "MES": "2026-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2026-06",
@@ -788,19 +793,14 @@
             "QTD": 66
           },
           {
-            "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
+            "MES": "2026-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 83
-          },
-          {
-            "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
           },
           {
             "MES": "2026-08",
@@ -1417,13 +1417,13 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 54
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
           },
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 54
           },
           {
             "MES": "2025-02",
@@ -1432,13 +1432,13 @@
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 39
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 39
           },
           {
             "MES": "2025-04",
@@ -1457,13 +1457,13 @@
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 64
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 64
           },
           {
             "MES": "2025-08",
@@ -1472,13 +1472,18 @@
           },
           {
             "MES": "2025-09",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-09",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 38
           },
           {
-            "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
+            "MES": "2025-10",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2025-10",
@@ -1486,9 +1491,9 @@
             "QTD": 34
           },
           {
-            "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
+            "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
           },
           {
             "MES": "2025-11",
@@ -1496,9 +1501,9 @@
             "QTD": 30
           },
           {
-            "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
+            "MES": "2025-12",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
           },
           {
             "MES": "2025-12",
@@ -1506,19 +1511,14 @@
             "QTD": 34
           },
           {
-            "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
+            "MES": "2026-01",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2026-01",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 28
-          },
-          {
-            "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
           },
           {
             "MES": "2026-02",
@@ -1527,13 +1527,18 @@
           },
           {
             "MES": "2026-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-03",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 43
           },
           {
-            "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
+            "MES": "2026-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2026-04",
@@ -1542,12 +1547,12 @@
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
+            "CATEGORIA": "UNIVERSALIZADA",
+            "QTD": 1
           },
           {
-            "MES": "2026-04",
-            "CATEGORIA": "UNIVERSALIZADA",
+            "MES": "2026-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 1
           },
           {
@@ -1556,19 +1561,14 @@
             "QTD": 51
           },
           {
-            "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
+            "MES": "2026-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2026-06",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 24
-          },
-          {
-            "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
           },
           {
             "MES": "2026-07",
@@ -2185,23 +2185,23 @@
           },
           {
             "MES": "2025-02",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-02",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 53
           },
           {
-            "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
+            "MES": "2025-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2025-03",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 71
-          },
-          {
-            "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
           },
           {
             "MES": "2025-04",
@@ -2220,13 +2220,13 @@
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 62
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 62
           },
           {
             "MES": "2025-08",
@@ -2235,13 +2235,13 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 46
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 46
           },
           {
             "MES": "2025-10",
@@ -2250,23 +2250,23 @@
           },
           {
             "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
+          },
+          {
+            "MES": "2025-11",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 43
           },
           {
-            "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
+            "MES": "2025-12",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
           },
           {
             "MES": "2025-12",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 62
-          },
-          {
-            "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
           },
           {
             "MES": "2026-01",
@@ -2280,13 +2280,13 @@
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 50
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 50
           },
           {
             "MES": "2026-03",
@@ -2300,12 +2300,17 @@
           },
           {
             "MES": "2026-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-05",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 43
           },
           {
-            "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
+            "MES": "2026-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 1
           },
           {
@@ -2314,19 +2319,14 @@
             "QTD": 42
           },
           {
-            "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
+            "MES": "2026-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 36
-          },
-          {
-            "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
           },
           {
             "MES": "2026-08",
@@ -2850,13 +2850,18 @@
         "universalizacao": [
           {
             "MES": "2025-01",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 563
+          },
+          {
+            "MES": "2025-01",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1541
           },
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 564
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-01",
@@ -2865,13 +2870,13 @@
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1228
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 477
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 477
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1228
           },
           {
             "MES": "2025-02",
@@ -2880,13 +2885,18 @@
           },
           {
             "MES": "2025-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 511
+          },
+          {
+            "MES": "2025-03",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1159
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 512
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-03",
@@ -2895,13 +2905,13 @@
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1523
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 540
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 540
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1523
           },
           {
             "MES": "2025-04",
@@ -2910,18 +2920,23 @@
           },
           {
             "MES": "2025-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 446
+          },
+          {
+            "MES": "2025-05",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1297
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 446
-          },
-          {
-            "MES": "2025-05",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 1227
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 423
           },
           {
             "MES": "2025-06",
@@ -2931,7 +2946,7 @@
           {
             "MES": "2025-06",
             "CATEGORIA": "OUTROS",
-            "QTD": 424
+            "QTD": 1
           },
           {
             "MES": "2025-06",
@@ -2940,13 +2955,18 @@
           },
           {
             "MES": "2025-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 340
+          },
+          {
+            "MES": "2025-07",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1775
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 341
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-07",
@@ -2955,13 +2975,13 @@
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1697
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 282
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 282
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1697
           },
           {
             "MES": "2025-08",
@@ -2970,13 +2990,13 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1976
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 342
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 342
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1976
           },
           {
             "MES": "2025-09",
@@ -2985,13 +3005,18 @@
           },
           {
             "MES": "2025-10",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 413
+          },
+          {
+            "MES": "2025-10",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1847
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 414
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-10",
@@ -3000,13 +3025,18 @@
           },
           {
             "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 281
+          },
+          {
+            "MES": "2025-11",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1468
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 282
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-11",
@@ -3015,13 +3045,13 @@
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1399
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 275
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 275
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1399
           },
           {
             "MES": "2025-12",
@@ -3030,13 +3060,13 @@
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 981
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 277
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 277
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 981
           },
           {
             "MES": "2026-01",
@@ -3045,13 +3075,13 @@
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1025
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 238
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 238
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1025
           },
           {
             "MES": "2026-02",
@@ -3060,13 +3090,18 @@
           },
           {
             "MES": "2026-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 407
+          },
+          {
+            "MES": "2026-03",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1454
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 408
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2026-03",
@@ -3075,13 +3110,13 @@
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1339
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 355
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 355
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1339
           },
           {
             "MES": "2026-04",
@@ -3090,13 +3125,13 @@
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1312
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 364
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 364
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1312
           },
           {
             "MES": "2026-05",
@@ -3105,13 +3140,18 @@
           },
           {
             "MES": "2026-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 457
+          },
+          {
+            "MES": "2026-06",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1351
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 458
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2026-06",
@@ -3120,13 +3160,18 @@
           },
           {
             "MES": "2026-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 493
+          },
+          {
+            "MES": "2026-07",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1726
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 494
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2026-07",
@@ -3135,13 +3180,13 @@
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 426
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 143
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 143
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 426
           },
           {
             "MES": "2026-08",
@@ -3663,13 +3708,18 @@
         "universalizacao": [
           {
             "MES": "2025-01",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 151
+          },
+          {
+            "MES": "2025-01",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 273
           },
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 152
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-01",
@@ -3678,13 +3728,13 @@
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 246
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 128
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 128
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 246
           },
           {
             "MES": "2025-02",
@@ -3693,13 +3743,18 @@
           },
           {
             "MES": "2025-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 154
+          },
+          {
+            "MES": "2025-03",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 228
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 155
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-03",
@@ -3708,18 +3763,23 @@
           },
           {
             "MES": "2025-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 138
+          },
+          {
+            "MES": "2025-04",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 290
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 138
-          },
-          {
-            "MES": "2025-04",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 272
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 142
           },
           {
             "MES": "2025-05",
@@ -3728,13 +3788,13 @@
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 142
-          },
-          {
-            "MES": "2025-05",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 239
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 149
           },
           {
             "MES": "2025-06",
@@ -3743,13 +3803,13 @@
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 149
-          },
-          {
-            "MES": "2025-06",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 266
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 155
           },
           {
             "MES": "2025-07",
@@ -3758,23 +3818,18 @@
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 155
-          },
-          {
-            "MES": "2025-07",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 272
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 340
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 120
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 120
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 340
           },
           {
             "MES": "2025-08",
@@ -3783,13 +3838,13 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 322
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 178
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 178
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 322
           },
           {
             "MES": "2025-09",
@@ -3798,13 +3853,18 @@
           },
           {
             "MES": "2025-10",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 244
+          },
+          {
+            "MES": "2025-10",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 340
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 245
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-10",
@@ -3813,13 +3873,13 @@
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 302
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 189
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 189
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 302
           },
           {
             "MES": "2025-11",
@@ -3828,13 +3888,13 @@
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 321
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 219
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 219
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 321
           },
           {
             "MES": "2025-12",
@@ -3843,13 +3903,13 @@
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 221
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 248
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 248
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 221
           },
           {
             "MES": "2026-01",
@@ -3858,13 +3918,13 @@
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 189
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 191
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 191
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 189
           },
           {
             "MES": "2026-02",
@@ -3873,13 +3933,13 @@
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 284
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 367
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 367
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 284
           },
           {
             "MES": "2026-03",
@@ -3888,13 +3948,13 @@
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 299
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 334
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 334
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 299
           },
           {
             "MES": "2026-04",
@@ -3903,13 +3963,13 @@
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 244
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 339
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 339
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 244
           },
           {
             "MES": "2026-05",
@@ -3918,13 +3978,13 @@
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 271
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 436
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 436
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 271
           },
           {
             "MES": "2026-06",
@@ -3933,13 +3993,18 @@
           },
           {
             "MES": "2026-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 465
+          },
+          {
+            "MES": "2026-07",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 368
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 466
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2026-07",
@@ -3948,13 +4013,13 @@
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 103
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 129
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 129
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 103
           },
           {
             "MES": "2026-08",
@@ -4471,13 +4536,13 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1268
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 412
           },
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 412
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1268
           },
           {
             "MES": "2025-01",
@@ -4486,13 +4551,13 @@
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 982
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 349
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 349
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 982
           },
           {
             "MES": "2025-02",
@@ -4501,13 +4566,13 @@
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 931
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 357
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 357
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 931
           },
           {
             "MES": "2025-03",
@@ -4516,13 +4581,13 @@
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1233
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 402
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 402
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1233
           },
           {
             "MES": "2025-04",
@@ -4531,18 +4596,23 @@
           },
           {
             "MES": "2025-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 304
+          },
+          {
+            "MES": "2025-05",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1017
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 304
-          },
-          {
-            "MES": "2025-05",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 988
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 274
           },
           {
             "MES": "2025-06",
@@ -4552,7 +4622,7 @@
           {
             "MES": "2025-06",
             "CATEGORIA": "OUTROS",
-            "QTD": 275
+            "QTD": 1
           },
           {
             "MES": "2025-06",
@@ -4561,13 +4631,18 @@
           },
           {
             "MES": "2025-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 185
+          },
+          {
+            "MES": "2025-07",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1444
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 186
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-07",
@@ -4576,13 +4651,13 @@
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1357
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 162
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 162
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1357
           },
           {
             "MES": "2025-08",
@@ -4591,13 +4666,13 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1654
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 164
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 164
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1654
           },
           {
             "MES": "2025-09",
@@ -4606,13 +4681,13 @@
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1507
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 169
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 169
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1507
           },
           {
             "MES": "2025-10",
@@ -4621,13 +4696,18 @@
           },
           {
             "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 92
+          },
+          {
+            "MES": "2025-11",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1166
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 93
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-11",
@@ -4636,13 +4716,13 @@
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1078
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 56
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 56
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1078
           },
           {
             "MES": "2025-12",
@@ -4651,13 +4731,13 @@
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 760
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 29
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 29
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 760
           },
           {
             "MES": "2026-01",
@@ -4666,13 +4746,13 @@
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 836
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 47
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 47
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 836
           },
           {
             "MES": "2026-02",
@@ -4681,13 +4761,18 @@
           },
           {
             "MES": "2026-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 40
+          },
+          {
+            "MES": "2026-03",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1170
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 41
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2026-03",
@@ -4696,13 +4781,13 @@
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1040
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 21
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 21
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1040
           },
           {
             "MES": "2026-04",
@@ -4711,13 +4796,13 @@
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1068
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 25
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 25
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1068
           },
           {
             "MES": "2026-05",
@@ -4726,13 +4811,18 @@
           },
           {
             "MES": "2026-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 21
+          },
+          {
+            "MES": "2026-06",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1080
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 22
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2026-06",
@@ -4741,13 +4831,13 @@
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1358
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 28
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 28
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 1358
           },
           {
             "MES": "2026-07",
@@ -4756,13 +4846,13 @@
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 323
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 14
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 14
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 323
           },
           {
             "MES": "2026-08",
@@ -5261,13 +5351,13 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 402
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 16
           },
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 16
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 402
           },
           {
             "MES": "2025-01",
@@ -5276,18 +5366,23 @@
           },
           {
             "MES": "2025-02",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 9
+          },
+          {
+            "MES": "2025-02",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 294
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 9
-          },
-          {
-            "MES": "2025-02",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 112
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 10
           },
           {
             "MES": "2025-03",
@@ -5296,13 +5391,13 @@
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 10
-          },
-          {
-            "MES": "2025-03",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 119
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 9
           },
           {
             "MES": "2025-04",
@@ -5311,13 +5406,13 @@
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 9
-          },
-          {
-            "MES": "2025-04",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 112
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 8
           },
           {
             "MES": "2025-05",
@@ -5326,13 +5421,13 @@
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 8
-          },
-          {
-            "MES": "2025-05",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 106
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 11
           },
           {
             "MES": "2025-06",
@@ -5341,13 +5436,13 @@
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 11
-          },
-          {
-            "MES": "2025-06",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 201
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 18
           },
           {
             "MES": "2025-07",
@@ -5356,13 +5451,13 @@
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 18
-          },
-          {
-            "MES": "2025-07",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 154
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 20
           },
           {
             "MES": "2025-08",
@@ -5371,13 +5466,13 @@
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 20
-          },
-          {
-            "MES": "2025-08",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 123
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 14
           },
           {
             "MES": "2025-09",
@@ -5386,13 +5481,13 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 14
-          },
-          {
-            "MES": "2025-09",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 153
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 11
           },
           {
             "MES": "2025-10",
@@ -5401,13 +5496,13 @@
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 11
-          },
-          {
-            "MES": "2025-10",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 175
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 10
           },
           {
             "MES": "2025-11",
@@ -5416,13 +5511,13 @@
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 10
-          },
-          {
-            "MES": "2025-11",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 159
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2025-12",
@@ -5431,23 +5526,18 @@
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
-          },
-          {
-            "MES": "2025-12",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 122
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 157
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 157
           },
           {
             "MES": "2026-01",
@@ -5456,13 +5546,13 @@
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 224
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 224
           },
           {
             "MES": "2026-02",
@@ -5471,13 +5561,13 @@
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 298
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 298
           },
           {
             "MES": "2026-03",
@@ -5486,13 +5576,13 @@
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 380
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 380
           },
           {
             "MES": "2026-04",
@@ -5501,13 +5591,13 @@
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 540
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 540
           },
           {
             "MES": "2026-05",
@@ -5516,13 +5606,13 @@
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 438
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 8
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 8
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 438
           },
           {
             "MES": "2026-06",
@@ -5531,13 +5621,13 @@
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 400
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 10
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 10
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 400
           },
           {
             "MES": "2026-07",
@@ -5546,13 +5636,13 @@
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 134
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 134
           },
           {
             "MES": "2026-08",
@@ -6049,13 +6139,13 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 139
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 7
           },
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 7
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 139
           },
           {
             "MES": "2025-01",
@@ -6064,18 +6154,23 @@
           },
           {
             "MES": "2025-02",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-02",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 98
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
-          },
-          {
-            "MES": "2025-02",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 16
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2025-03",
@@ -6084,23 +6179,18 @@
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
-          },
-          {
-            "MES": "2025-03",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 21
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 121
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 121
           },
           {
             "MES": "2025-04",
@@ -6109,18 +6199,23 @@
           },
           {
             "MES": "2025-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
+          },
+          {
+            "MES": "2025-05",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 125
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
-          },
-          {
-            "MES": "2025-05",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 18
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2025-06",
@@ -6129,13 +6224,13 @@
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
-          },
-          {
-            "MES": "2025-06",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 35
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2025-07",
@@ -6144,13 +6239,13 @@
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
-          },
-          {
-            "MES": "2025-07",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 18
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 10
           },
           {
             "MES": "2025-08",
@@ -6159,13 +6254,13 @@
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 10
-          },
-          {
-            "MES": "2025-08",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 18
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2025-09",
@@ -6174,13 +6269,13 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
-          },
-          {
-            "MES": "2025-09",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 10
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
           },
           {
             "MES": "2025-10",
@@ -6189,13 +6284,13 @@
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
-          },
-          {
-            "MES": "2025-10",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 31
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2025-11",
@@ -6204,13 +6299,13 @@
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
-          },
-          {
-            "MES": "2025-11",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 43
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
           },
           {
             "MES": "2025-12",
@@ -6219,13 +6314,13 @@
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
-          },
-          {
-            "MES": "2025-12",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 42
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2026-01",
@@ -6234,13 +6329,13 @@
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
-          },
-          {
-            "MES": "2026-01",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 57
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
           },
           {
             "MES": "2026-02",
@@ -6249,13 +6344,13 @@
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
-          },
-          {
-            "MES": "2026-02",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 31
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2026-03",
@@ -6264,13 +6359,13 @@
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
-          },
-          {
-            "MES": "2026-03",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 47
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2026-04",
@@ -6279,13 +6374,13 @@
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
-          },
-          {
-            "MES": "2026-04",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 57
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
           },
           {
             "MES": "2026-05",
@@ -6294,13 +6389,13 @@
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
-          },
-          {
-            "MES": "2026-05",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 72
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
           },
           {
             "MES": "2026-06",
@@ -6309,13 +6404,13 @@
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
-          },
-          {
-            "MES": "2026-06",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 47
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
           },
           {
             "MES": "2026-07",
@@ -6324,23 +6419,18 @@
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
-          },
-          {
-            "MES": "2026-07",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 57
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 53
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 53
           },
           {
             "MES": "2026-08",
@@ -6837,13 +6927,13 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 263
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 9
           },
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 9
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 263
           },
           {
             "MES": "2025-01",
@@ -6852,18 +6942,23 @@
           },
           {
             "MES": "2025-02",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
+          },
+          {
+            "MES": "2025-02",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 196
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
-          },
-          {
-            "MES": "2025-02",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 96
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 7
           },
           {
             "MES": "2025-03",
@@ -6872,13 +6967,13 @@
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 7
-          },
-          {
-            "MES": "2025-03",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 98
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
           },
           {
             "MES": "2025-04",
@@ -6887,23 +6982,18 @@
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
-          },
-          {
-            "MES": "2025-04",
             "CATEGORIA": "UNIVERSALIZADA",
             "QTD": 96
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 143
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 143
           },
           {
             "MES": "2025-05",
@@ -6912,13 +7002,13 @@
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 278
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 278
           },
           {
             "MES": "2025-06",
@@ -6927,13 +7017,13 @@
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 210
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 12
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 12
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 210
           },
           {
             "MES": "2025-07",
@@ -6942,13 +7032,13 @@
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 222
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 10
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 10
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 222
           },
           {
             "MES": "2025-08",
@@ -6957,13 +7047,13 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 241
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 8
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 8
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 241
           },
           {
             "MES": "2025-09",
@@ -6972,13 +7062,13 @@
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 235
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 6
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 235
           },
           {
             "MES": "2025-10",
@@ -6987,13 +7077,13 @@
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 165
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 165
           },
           {
             "MES": "2025-11",
@@ -7002,13 +7092,13 @@
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 109
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 109
           },
           {
             "MES": "2025-12",
@@ -7017,13 +7107,13 @@
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 70
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 70
           },
           {
             "MES": "2026-01",
@@ -7032,13 +7122,13 @@
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 126
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 126
           },
           {
             "MES": "2026-02",
@@ -7047,13 +7137,13 @@
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 167
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 1
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 167
           },
           {
             "MES": "2026-03",
@@ -7072,13 +7162,13 @@
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 275
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 275
           },
           {
             "MES": "2026-05",
@@ -7087,13 +7177,13 @@
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 205
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 205
           },
           {
             "MES": "2026-06",
@@ -7102,13 +7192,13 @@
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 224
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 5
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 224
           },
           {
             "MES": "2026-07",
@@ -7117,13 +7207,13 @@
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 81
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 2
+            "CATEGORIA": "NAO_UNIVERSALIZADA",
+            "QTD": 81
           },
           {
             "MES": "2026-08",
@@ -7800,8 +7890,13 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 247
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 245
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 2
           },
           {
             "MES": "2025-01",
@@ -7810,8 +7905,13 @@
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 216
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 211
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
           },
           {
             "MES": "2025-02",
@@ -7820,8 +7920,13 @@
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 229
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 225
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
           },
           {
             "MES": "2025-03",
@@ -7830,18 +7935,28 @@
           },
           {
             "MES": "2025-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 271
+          },
+          {
+            "MES": "2025-04",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
             "QTD": 1
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 276
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 241
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 237
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
           },
           {
             "MES": "2025-05",
@@ -7850,8 +7965,13 @@
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 232
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 226
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 6
           },
           {
             "MES": "2025-06",
@@ -7860,8 +7980,13 @@
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 297
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 284
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 13
           },
           {
             "MES": "2025-07",
@@ -7870,8 +7995,13 @@
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 270
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 260
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
           },
           {
             "MES": "2025-08",
@@ -7880,13 +8010,23 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 297
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 285
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 12
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 332
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 322
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
           },
           {
             "MES": "2025-10",
@@ -7895,52 +8035,97 @@
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 288
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 287
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 237
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 231
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 6
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 211
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 208
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 201
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 198
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 293
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 289
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 250
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 247
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 276
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 272
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 265
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 260
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 285
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 278
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 7
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 96
           }
         ]
@@ -8348,8 +8533,13 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 132
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 131
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-01",
@@ -8358,8 +8548,13 @@
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 134
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 129
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
           },
           {
             "MES": "2025-02",
@@ -8368,8 +8563,13 @@
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 150
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 146
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
           },
           {
             "MES": "2025-03",
@@ -8378,23 +8578,43 @@
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 171
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 166
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 141
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 138
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 148
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 145
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 191
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 182
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 9
           },
           {
             "MES": "2025-07",
@@ -8403,8 +8623,13 @@
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 176
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 172
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
           },
           {
             "MES": "2025-08",
@@ -8413,13 +8638,23 @@
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 199
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 192
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 7
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 200
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 194
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 6
           },
           {
             "MES": "2025-10",
@@ -8428,52 +8663,87 @@
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 185
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 142
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 141
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 150
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 148
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 2
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 133
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 130
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 185
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 182
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 161
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 167
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 163
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 176
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 174
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 2
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 206
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 199
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 7
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 59
           }
         ]
@@ -8886,8 +9156,13 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 115
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 114
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-01",
@@ -8896,7 +9171,7 @@
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 82
           },
           {
@@ -8906,8 +9181,13 @@
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 79
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 105
           },
           {
             "MES": "2025-04",
@@ -8915,14 +9195,14 @@
             "QTD": 1
           },
           {
-            "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 105
+            "MES": "2025-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 99
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 100
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-05",
@@ -8931,8 +9211,13 @@
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 84
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 81
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2025-06",
@@ -8941,23 +9226,43 @@
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 106
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 102
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 94
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 88
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 6
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 98
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 93
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 132
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 128
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
           },
           {
             "MES": "2025-10",
@@ -8966,52 +9271,82 @@
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 103
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 102
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 95
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 90
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 61
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 60
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 68
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 108
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 107
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 89
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 86
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 109
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 89
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 86
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 79
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 37
           }
         ]
@@ -10646,103 +10981,203 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 121
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 91
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 30
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 98
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 79
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 19
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 92
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 60
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 32
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 114
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 82
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 32
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 93
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 69
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 24
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 117
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 75
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 42
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 161
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 111
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 50
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 127
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 91
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 36
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 145
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 119
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 26
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 148
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 115
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 33
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 152
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 137
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 15
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 130
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 105
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 25
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 118
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 103
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 15
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 56
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 50
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 6
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 156
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 129
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 27
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 152
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 135
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 17
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 185
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 161
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 24
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 160
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 147
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 13
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 152
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 144
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 8
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 43
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 42
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           }
         ]
       },
@@ -11144,103 +11579,203 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 74
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 52
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 22
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 63
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 46
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 17
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 72
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 44
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 28
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 76
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 49
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 27
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 58
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 41
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 17
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 87
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 55
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 32
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 98
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 61
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 37
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 81
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 55
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 26
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 87
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 71
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 16
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 69
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 21
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 90
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 99
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 9
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 76
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 66
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 82
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 74
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 8
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 40
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 35
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 106
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 83
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 23
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 120
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 104
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 16
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 134
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 112
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 22
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 113
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 102
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 11
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 114
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 108
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 6
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 30
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 29
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
           }
         ]
       },
@@ -11647,102 +12182,197 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 47
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 39
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 8
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 35
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 33
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 2
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 20
-          },
-          {
-            "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 38
-          },
-          {
-            "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 35
-          },
-          {
-            "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 30
-          },
-          {
-            "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 63
-          },
-          {
-            "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 46
-          },
-          {
-            "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 58
-          },
-          {
-            "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 58
-          },
-          {
-            "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 53
-          },
-          {
-            "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 54
-          },
-          {
-            "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 36
-          },
-          {
-            "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 16
           },
           {
-            "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
+            "MES": "2025-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 33
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 28
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 20
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 50
           },
           {
-            "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 32
+            "MES": "2025-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 13
           },
           {
-            "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 51
+            "MES": "2025-08",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 36
           },
           {
-            "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
+            "MES": "2025-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 48
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 46
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 12
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 47
           },
           {
+            "MES": "2025-11",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 39
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 15
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 29
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 15
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 46
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 4
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 31
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 49
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 45
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 2
+          },
+          {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 38
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 36
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 2
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 13
           }
         ]
@@ -12147,48 +12777,93 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 60
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 14
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 46
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 45
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 35
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 70
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 17
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 53
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 68
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 23
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 45
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 54
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 15
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 39
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 79
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 23
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 56
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 79
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 20
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 59
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 90
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 21
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 69
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 77
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 14
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 63
           },
           {
             "MES": "2025-09",
@@ -12197,58 +12872,113 @@
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 67
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 17
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 50
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 77
-          },
-          {
-            "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 77
-          },
-          {
-            "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 65
-          },
-          {
-            "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
             "QTD": 20
           },
           {
+            "MES": "2025-11",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 57
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 29
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 48
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 26
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 39
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 14
+          },
+          {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 44
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 8
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 36
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 123
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 23
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 100
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 96
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 24
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 72
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 70
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 16
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 54
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 98
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 17
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 81
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 27
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 21
           }
         ]
       },
@@ -12640,103 +13370,203 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 44
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 11
           },
           {
-            "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
+            "MES": "2025-01",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 33
           },
           {
+            "MES": "2025-02",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 8
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 25
+          },
+          {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 48
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 9
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 39
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 48
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 13
           },
           {
-            "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
+            "MES": "2025-04",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 35
           },
           {
+            "MES": "2025-05",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 8
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 27
+          },
+          {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 54
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 12
           },
           {
-            "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 59
-          },
-          {
-            "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 62
-          },
-          {
-            "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 55
-          },
-          {
-            "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 53
-          },
-          {
-            "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 55
-          },
-          {
-            "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 57
-          },
-          {
-            "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
+            "MES": "2025-06",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 42
           },
           {
+            "MES": "2025-07",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 13
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 46
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 16
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 46
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 45
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 13
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 40
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 16
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 39
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 23
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 34
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 13
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 29
+          },
+          {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 17
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 12
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 28
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 25
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 100
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 16
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 84
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 74
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 13
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 61
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 50
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 43
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 74
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 12
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 62
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 20
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 16
           }
         ]
       },
@@ -13118,48 +13948,93 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 16
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 3
+          },
+          {
+            "MES": "2025-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 13
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 12
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
+          },
+          {
+            "MES": "2025-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 22
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 8
+          },
+          {
+            "MES": "2025-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 14
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 20
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 10
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 19
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 12
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 25
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 11
+          },
+          {
+            "MES": "2025-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 14
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 20
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 7
+          },
+          {
+            "MES": "2025-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 13
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 28
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
+          },
+          {
+            "MES": "2025-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 23
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 22
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 18
           },
           {
             "MES": "2025-09",
@@ -13168,58 +14043,113 @@
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
-            "QTD": 14
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-10",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
-            "QTD": 22
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 4
+          },
+          {
+            "MES": "2025-11",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 18
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
-            "QTD": 20
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 6
+          },
+          {
+            "MES": "2025-12",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 14
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
-            "QTD": 23
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 13
+          },
+          {
+            "MES": "2026-01",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 10
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
-            "QTD": 3
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
+          },
+          {
+            "MES": "2026-02",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 2
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
-            "QTD": 16
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
+          },
+          {
+            "MES": "2026-03",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 11
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 23
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 7
+          },
+          {
+            "MES": "2026-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 16
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
-            "QTD": 22
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 11
+          },
+          {
+            "MES": "2026-05",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 11
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
-            "QTD": 20
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 9
+          },
+          {
+            "MES": "2026-06",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 11
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
-            "QTD": 24
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 5
+          },
+          {
+            "MES": "2026-07",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 19
           },
           {
             "MES": "2026-08",
-            "CATEGORIA": "OUTROS",
-            "QTD": 7
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 2
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 5
           }
         ]
       }
@@ -13480,52 +14410,62 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 47
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 32
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 41
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 46
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 45
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 26
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 38
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 51
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 48
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 30
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 29
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 23
           },
           {
@@ -13535,47 +14475,47 @@
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 30
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 15
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 1
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 1
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 2
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 3
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 1
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 3
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 2
           }
         ]
@@ -13798,87 +14738,92 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 43
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 29
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 39
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
-            "QTD": 44
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-04",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 43
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 23
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 35
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 47
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 40
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 26
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 22
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 25
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 11
           },
           {
             "MES": "2026-02",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 1
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 2
           },
           {
             "MES": "2026-05",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 1
           },
           {
             "MES": "2026-06",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 3
           },
           {
             "MES": "2026-07",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 2
           }
         ]
@@ -14051,52 +14996,57 @@
         "universalizacao": [
           {
             "MES": "2025-01",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 4
           },
           {
             "MES": "2025-02",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 3
           },
           {
             "MES": "2025-03",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 2
           },
           {
             "MES": "2025-04",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 2
           },
           {
             "MES": "2025-05",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 3
           },
           {
             "MES": "2025-06",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 3
           },
           {
             "MES": "2025-07",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 4
           },
           {
             "MES": "2025-08",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 8
           },
           {
             "MES": "2025-09",
-            "CATEGORIA": "OUTROS",
-            "QTD": 4
+            "CATEGORIA": "FORA_UNIVERSALIZACAO",
+            "QTD": 1
+          },
+          {
+            "MES": "2025-09",
+            "CATEGORIA": "SEGURANCA",
+            "QTD": 3
           },
           {
             "MES": "2025-10",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 1
           },
           {
@@ -14106,27 +15056,27 @@
           },
           {
             "MES": "2025-11",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 5
           },
           {
             "MES": "2025-12",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 4
           },
           {
             "MES": "2026-01",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 1
           },
           {
             "MES": "2026-03",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 2
           },
           {
             "MES": "2026-04",
-            "CATEGORIA": "OUTROS",
+            "CATEGORIA": "SEGURANCA",
             "QTD": 1
           }
         ]

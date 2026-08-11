@@ -57,10 +57,9 @@ const GRAFICOS = [
   {
     chave: 'universalizacao',
     campoCategoria: 'CATEGORIA',
+    
     categorias: [
-      { key: 'UNIVERSALIZADA', label: 'Universalizada', color: '#2f9e6e' },
-      { key: 'NAO_UNIVERSALIZADA', label: 'Não universalizada', color: '#8a5a0b' },
-      { key: 'OUTROS', label: 'Outros', color: '#898781' },
+      { key: 'UNIVERSALIZADA', label: 'Universalizada', color: '#2f9e6e' },{ key: 'NAO_UNIVERSALIZADA', label: 'Não universalizada', color: '#8a5a0b' },{ key: 'FORA_UNIVERSALIZACAO', label: 'Fora da universalização', color: '#2a78d6' },{ key: 'SEGURANCA', label: 'Obras de segurança', color: '#a02b2b' },{ key: 'OUTROS', label: 'Outros', color: '#898781' },
     ],
   },
 ];
