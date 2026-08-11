@@ -454,7 +454,7 @@ async function iniciar() {
 
     // Serviço começa só com COMT (mesmo default do app React); mercado começa
     // com os dois marcados (= "Todos").
-    let servicosSelecionados = SERVICOS.filter((s) => s !== 'PSAA' && s !== 'PSAI');
+    let servicosSelecionados = SERVICOS_HISTORICO.filter((s) => s !== 'PSAA' && s !== 'PSAI');
     let mercadosSelecionados = [...MERCADOS_HISTORICO];
 
     function renderizarFiltros() {
