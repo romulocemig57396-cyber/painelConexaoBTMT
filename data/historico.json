@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T18:08:47.160Z",
+  "geradoEm": "2026-08-24T19:25:16.811Z",
   "servicos": [
     "COMT",
     "COBT",
@@ -311,17 +311,17 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 71
+            "QTD": 75
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "CANCELADO",
-            "QTD": 7
+            "QTD": 8
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 90
+            "QTD": 91
           }
         ],
         "liberacao": [
@@ -613,17 +613,17 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 39
+            "QTD": 44
           },
           {
             "MES": "2026-08",
             "TIPO": "SEM_OBRAS",
-            "QTD": 14
+            "QTD": 13
           },
           {
             "MES": "2026-08",
             "TIPO": "SERVICOS_REDE",
-            "QTD": 15
+            "QTD": 17
           }
         ],
         "universalizacao": [
@@ -810,7 +810,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 38
+            "QTD": 43
           }
         ]
       },
@@ -1104,7 +1104,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 40
+            "QTD": 43
           },
           {
             "MES": "2026-08",
@@ -1406,7 +1406,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 18
+            "QTD": 20
           },
           {
             "MES": "2026-08",
@@ -1416,7 +1416,7 @@
           {
             "MES": "2026-08",
             "TIPO": "SERVICOS_REDE",
-            "QTD": 8
+            "QTD": 9
           }
         ],
         "universalizacao": [
@@ -1583,7 +1583,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 18
+            "QTD": 20
           }
         ]
       },
@@ -1877,17 +1877,17 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 31
+            "QTD": 32
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "CANCELADO",
-            "QTD": 1
+            "QTD": 2
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 48
+            "QTD": 49
           }
         ],
         "liberacao": [
@@ -2174,17 +2174,17 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 21
+            "QTD": 24
           },
           {
             "MES": "2026-08",
             "TIPO": "SEM_OBRAS",
-            "QTD": 7
+            "QTD": 6
           },
           {
             "MES": "2026-08",
             "TIPO": "SERVICOS_REDE",
-            "QTD": 7
+            "QTD": 8
           }
         ],
         "universalizacao": [
@@ -2346,7 +2346,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 20
+            "QTD": 23
           }
         ]
       }
@@ -2597,12 +2597,12 @@
           {
             "MES": "2026-05",
             "CATEGORIA": "APROVADO",
-            "QTD": 7008
+            "QTD": 7007
           },
           {
             "MES": "2026-05",
             "CATEGORIA": "CANCELADO",
-            "QTD": 872
+            "QTD": 873
           },
           {
             "MES": "2026-05",
@@ -2612,12 +2612,12 @@
           {
             "MES": "2026-06",
             "CATEGORIA": "APROVADO",
-            "QTD": 7968
+            "QTD": 7967
           },
           {
             "MES": "2026-06",
             "CATEGORIA": "CANCELADO",
-            "QTD": 873
+            "QTD": 874
           },
           {
             "MES": "2026-06",
@@ -2627,32 +2627,32 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 10646
+            "QTD": 10561
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "CANCELADO",
-            "QTD": 890
+            "QTD": 928
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "REPROVADO",
-            "QTD": 9982
+            "QTD": 10029
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 6448
+            "QTD": 6894
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "CANCELADO",
-            "QTD": 123
+            "QTD": 138
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 4810
+            "QTD": 5096
           }
         ],
         "liberacao": [
@@ -2829,7 +2829,7 @@
           {
             "MES": "2026-05",
             "TIPO": "SEM_OBRAS",
-            "QTD": 4475
+            "QTD": 4474
           },
           {
             "MES": "2026-06",
@@ -2844,22 +2844,22 @@
           {
             "MES": "2026-07",
             "TIPO": "COM_OBRAS",
-            "QTD": 3161
+            "QTD": 3160
           },
           {
             "MES": "2026-07",
             "TIPO": "SEM_OBRAS",
-            "QTD": 6392
+            "QTD": 6391
           },
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 1932
+            "QTD": 2110
           },
           {
             "MES": "2026-08",
             "TIPO": "SEM_OBRAS",
-            "QTD": 3434
+            "QTD": 3657
           }
         ],
         "universalizacao": [
@@ -3191,22 +3191,22 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "UNIVERSALIZADA",
-            "QTD": 948
+            "QTD": 947
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 351
+            "QTD": 375
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 1039
+            "QTD": 1148
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "UNIVERSALIZADA",
-            "QTD": 542
+            "QTD": 587
           }
         ]
       },
@@ -3485,32 +3485,32 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 5518
+            "QTD": 5512
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "CANCELADO",
-            "QTD": 382
+            "QTD": 385
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "REPROVADO",
-            "QTD": 2356
+            "QTD": 2359
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 2883
+            "QTD": 3068
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "CANCELADO",
-            "QTD": 81
+            "QTD": 90
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 1347
+            "QTD": 1423
           }
         ],
         "liberacao": [
@@ -3712,12 +3712,12 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 634
+            "QTD": 692
           },
           {
             "MES": "2026-08",
             "TIPO": "SEM_OBRAS",
-            "QTD": 2191
+            "QTD": 2329
           }
         ],
         "universalizacao": [
@@ -4029,17 +4029,17 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 301
+            "QTD": 321
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 231
+            "QTD": 259
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "UNIVERSALIZADA",
-            "QTD": 102
+            "QTD": 112
           }
         ]
       },
@@ -4288,12 +4288,12 @@
           {
             "MES": "2026-05",
             "CATEGORIA": "APROVADO",
-            "QTD": 3374
+            "QTD": 3373
           },
           {
             "MES": "2026-05",
             "CATEGORIA": "CANCELADO",
-            "QTD": 534
+            "QTD": 535
           },
           {
             "MES": "2026-05",
@@ -4303,12 +4303,12 @@
           {
             "MES": "2026-06",
             "CATEGORIA": "APROVADO",
-            "QTD": 3774
+            "QTD": 3773
           },
           {
             "MES": "2026-06",
             "CATEGORIA": "CANCELADO",
-            "QTD": 519
+            "QTD": 520
           },
           {
             "MES": "2026-06",
@@ -4318,32 +4318,32 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 5128
+            "QTD": 5049
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "CANCELADO",
-            "QTD": 508
+            "QTD": 543
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "REPROVADO",
-            "QTD": 7626
+            "QTD": 7670
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 3565
+            "QTD": 3826
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "CANCELADO",
-            "QTD": 42
+            "QTD": 48
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 3463
+            "QTD": 3673
           }
         ],
         "liberacao": [
@@ -4515,7 +4515,7 @@
           {
             "MES": "2026-05",
             "TIPO": "SEM_OBRAS",
-            "QTD": 1613
+            "QTD": 1612
           },
           {
             "MES": "2026-06",
@@ -4530,22 +4530,22 @@
           {
             "MES": "2026-07",
             "TIPO": "COM_OBRAS",
-            "QTD": 2159
+            "QTD": 2158
           },
           {
             "MES": "2026-07",
             "TIPO": "SEM_OBRAS",
-            "QTD": 2162
+            "QTD": 2161
           },
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 1298
+            "QTD": 1418
           },
           {
             "MES": "2026-08",
             "TIPO": "SEM_OBRAS",
-            "QTD": 1243
+            "QTD": 1328
           }
         ],
         "universalizacao": [
@@ -4857,22 +4857,22 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "UNIVERSALIZADA",
-            "QTD": 778
+            "QTD": 777
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 50
+            "QTD": 54
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 808
+            "QTD": 889
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "UNIVERSALIZADA",
-            "QTD": 440
+            "QTD": 475
           }
         ]
       }
@@ -5143,22 +5143,22 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "CANCELADO",
-            "QTD": 43
+            "QTD": 44
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "REPROVADO",
-            "QTD": 4355
+            "QTD": 4356
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "CANCELADO",
-            "QTD": 53
+            "QTD": 57
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 2488
+            "QTD": 2663
           }
         ],
         "liberacao": [
@@ -5355,12 +5355,12 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 441
+            "QTD": 474
           },
           {
             "MES": "2026-08",
             "TIPO": "SEM_OBRAS",
-            "QTD": 6425
+            "QTD": 6830
           }
         ],
         "universalizacao": [
@@ -5652,17 +5652,17 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 9
+            "QTD": 10
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 299
+            "QTD": 323
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "UNIVERSALIZADA",
-            "QTD": 133
+            "QTD": 141
           }
         ]
       },
@@ -5941,12 +5941,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "CANCELADO",
-            "QTD": 31
+            "QTD": 35
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 1594
+            "QTD": 1701
           }
         ],
         "liberacao": [
@@ -6143,12 +6143,12 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 173
+            "QTD": 189
           },
           {
             "MES": "2026-08",
             "TIPO": "SEM_OBRAS",
-            "QTD": 4880
+            "QTD": 5197
           }
         ],
         "universalizacao": [
@@ -6440,17 +6440,17 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 5
+            "QTD": 6
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 129
+            "QTD": 141
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "UNIVERSALIZADA",
-            "QTD": 39
+            "QTD": 42
           }
         ]
       },
@@ -6719,12 +6719,12 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "CANCELADO",
-            "QTD": 15
+            "QTD": 16
           },
           {
             "MES": "2026-07",
             "CATEGORIA": "REPROVADO",
-            "QTD": 1502
+            "QTD": 1503
           },
           {
             "MES": "2026-08",
@@ -6734,7 +6734,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 894
+            "QTD": 962
           }
         ],
         "liberacao": [
@@ -6931,12 +6931,12 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 268
+            "QTD": 285
           },
           {
             "MES": "2026-08",
             "TIPO": "SEM_OBRAS",
-            "QTD": 1545
+            "QTD": 1633
           }
         ],
         "universalizacao": [
@@ -7228,12 +7228,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "NAO_UNIVERSALIZADA",
-            "QTD": 170
+            "QTD": 182
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "UNIVERSALIZADA",
-            "QTD": 94
+            "QTD": 99
           }
         ]
       }
@@ -7787,7 +7787,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 210
+            "QTD": 222
           },
           {
             "MES": "2026-08",
@@ -7797,7 +7797,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 9
+            "QTD": 10
           }
         ],
         "liberacao": [
@@ -7899,7 +7899,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 216
+            "QTD": 232
           }
         ],
         "universalizacao": [
@@ -8141,12 +8141,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 209
+            "QTD": 224
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 7
+            "QTD": 8
           }
         ]
       },
@@ -8440,7 +8440,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 128
+            "QTD": 138
           },
           {
             "MES": "2026-08",
@@ -8547,7 +8547,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 121
+            "QTD": 131
           }
         ],
         "universalizacao": [
@@ -8764,12 +8764,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 119
+            "QTD": 128
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 2
+            "QTD": 3
           }
         ]
       },
@@ -9063,7 +9063,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 82
+            "QTD": 84
           },
           {
             "MES": "2026-08",
@@ -9073,7 +9073,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 6
+            "QTD": 7
           }
         ],
         "liberacao": [
@@ -9175,7 +9175,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 95
+            "QTD": 101
           }
         ],
         "universalizacao": [
@@ -9372,7 +9372,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 90
+            "QTD": 96
           },
           {
             "MES": "2026-08",
@@ -9695,12 +9695,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "CANCELADO",
-            "QTD": 5
+            "QTD": 6
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 36
+            "QTD": 37
           }
         ],
         "liberacao": [
@@ -10092,7 +10092,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "CANCELADO",
-            "QTD": 2
+            "QTD": 3
           },
           {
             "MES": "2026-08",
@@ -10504,7 +10504,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 21
+            "QTD": 22
           }
         ],
         "liberacao": [
@@ -10888,7 +10888,7 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 170
+            "QTD": 168
           },
           {
             "MES": "2026-07",
@@ -10898,17 +10898,17 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "REPROVADO",
-            "QTD": 18
+            "QTD": 20
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 150
+            "QTD": 164
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "REPROVADO",
-            "QTD": 1
+            "QTD": 2
           }
         ],
         "liberacao": [
@@ -11010,7 +11010,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 92
+            "QTD": 107
           }
         ],
         "universalizacao": [
@@ -11117,12 +11117,12 @@
           {
             "MES": "2025-11",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 137
+            "QTD": 136
           },
           {
             "MES": "2025-11",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 15
+            "QTD": 16
           },
           {
             "MES": "2025-12",
@@ -11207,12 +11207,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 88
+            "QTD": 101
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 4
+            "QTD": 6
           }
         ]
       },
@@ -11491,7 +11491,7 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 117
+            "QTD": 116
           },
           {
             "MES": "2026-07",
@@ -11501,12 +11501,17 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "REPROVADO",
-            "QTD": 11
+            "QTD": 12
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 111
+            "QTD": 119
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "REPROVADO",
+            "QTD": 1
           }
         ],
         "liberacao": [
@@ -11608,7 +11613,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 58
+            "QTD": 68
           }
         ],
         "universalizacao": [
@@ -11715,12 +11720,12 @@
           {
             "MES": "2025-11",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 90
+            "QTD": 89
           },
           {
             "MES": "2025-11",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 9
+            "QTD": 10
           },
           {
             "MES": "2025-12",
@@ -11805,12 +11810,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 56
+            "QTD": 64
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 2
+            "QTD": 4
           }
         ]
       },
@@ -12089,7 +12094,7 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 53
+            "QTD": 52
           },
           {
             "MES": "2026-07",
@@ -12099,12 +12104,12 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "REPROVADO",
-            "QTD": 7
+            "QTD": 8
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 39
+            "QTD": 45
           },
           {
             "MES": "2026-08",
@@ -12211,7 +12216,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 34
+            "QTD": 39
           }
         ],
         "universalizacao": [
@@ -12408,7 +12413,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 32
+            "QTD": 37
           },
           {
             "MES": "2026-08",
@@ -12694,7 +12699,7 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 117
+            "QTD": 116
           },
           {
             "MES": "2026-07",
@@ -12709,7 +12714,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 63
+            "QTD": 67
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 1
           }
         ],
         "liberacao": [
@@ -12811,7 +12821,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 68
+            "QTD": 75
           }
         ],
         "universalizacao": [
@@ -13013,12 +13023,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 9
+            "QTD": 11
           },
           {
             "MES": "2026-08",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 59
+            "QTD": 64
           }
         ]
       },
@@ -13292,7 +13302,7 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 84
+            "QTD": 83
           },
           {
             "MES": "2026-07",
@@ -13302,7 +13312,12 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 41
+            "QTD": 43
+          },
+          {
+            "MES": "2026-08",
+            "CATEGORIA": "CANCELADO",
+            "QTD": 1
           }
         ],
         "liberacao": [
@@ -13404,7 +13419,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 47
+            "QTD": 52
           }
         ],
         "universalizacao": [
@@ -13606,7 +13621,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 41
+            "QTD": 46
           }
         ]
       },
@@ -13885,7 +13900,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "APROVADO",
-            "QTD": 22
+            "QTD": 24
           }
         ],
         "liberacao": [
@@ -13987,7 +14002,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 21
+            "QTD": 23
           }
         ],
         "universalizacao": [
@@ -14189,7 +14204,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "FORA_UNIVERSALIZACAO",
-            "QTD": 3
+            "QTD": 5
           },
           {
             "MES": "2026-08",
@@ -14352,7 +14367,7 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 2
+            "QTD": 3
           }
         ],
         "liberacao": [
@@ -14454,7 +14469,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 1
+            "QTD": 2
           }
         ],
         "universalizacao": [
@@ -14571,7 +14586,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 1
+            "QTD": 2
           }
         ]
       },
@@ -14700,7 +14715,7 @@
           {
             "MES": "2026-07",
             "CATEGORIA": "APROVADO",
-            "QTD": 2
+            "QTD": 3
           }
         ],
         "liberacao": [
@@ -14792,7 +14807,7 @@
           {
             "MES": "2026-08",
             "TIPO": "COM_OBRAS",
-            "QTD": 1
+            "QTD": 2
           }
         ],
         "universalizacao": [
@@ -14889,7 +14904,7 @@
           {
             "MES": "2026-08",
             "CATEGORIA": "SEGURANCA",
-            "QTD": 1
+            "QTD": 2
           }
         ]
       },
