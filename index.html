@@ -36,6 +36,10 @@
         <label>Mercado</label>
         <div id="chips-mercado"></div>
       </div>
+      <div class="filtros-bar__campo">
+        <label>Regional</label>
+        <div id="chips-regional"></div>
+      </div>
     </section>
 
     <div id="area-graficos">
@@ -60,6 +64,31 @@
         <div class="grafico-rodape"></div>
       </section>
     </div>
+
+    <section class="pendentes" id="area-pendentes">
+      <h2 class="secao-titulo">Medidas pendentes</h2>
+      <section class="filtros-bar filtros-bar--pendentes">
+        <div class="filtros-bar__campo">
+          <label>Medida</label>
+          <div id="chips-medida"></div>
+        </div>
+      </section>
+      <div class="cards-publicos" id="cards-pendentes"></div>
+      <div class="pendentes-graficos">
+        <section class="grafico-wrapper" data-grafico-medidas="grupo1">
+          <h2 class="grafico-titulo">Medidas pendentes por medida</h2>
+          <div class="grafico-medidas-corpo"></div>
+        </section>
+        <section class="grafico-wrapper" data-grafico-medidas="grupo2">
+          <h2 class="grafico-titulo">Medidas pendentes — áreas envolvidas</h2>
+          <div class="grafico-medidas-corpo"></div>
+        </section>
+        <section class="grafico-wrapper" data-grafico-medidas="0070">
+          <h2 class="grafico-titulo">Medida 0070 por Regional</h2>
+          <div class="grafico-medidas-corpo"></div>
+        </section>
+      </div>
+    </section>
 
     <p class="erro-carga" id="erro-carga" hidden></p>
   </main>

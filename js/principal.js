@@ -378,7 +378,7 @@ function desenharGrafico(container, rodapeEl, legendaMesEl, dados, categorias) {
 // dois juntos usam o bucket 'TODOS' já pré-calculado (mesma semântica de
 // "sem filtro de mercado" do backend), em vez de somar Urbano+Rural no
 // cliente, pra ficar idêntico ao que a API retornaria sem o filtro.
-function aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados) {
+function aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas) {
   const bucketsMercado =
     mercadosSelecionados.length === MERCADOS_HISTORICO.length ? ['TODOS'] : mercadosSelecionados;
 
@@ -391,14 +391,113 @@ function aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionad
     const listas = [];
     servicosSelecionados.forEach((servico) => {
       bucketsMercado.forEach((mercado) => {
-        const combinacao = dadosCompletos.dados?.[servico]?.[mercado];
-        if (combinacao) listas.push(combinacao[grafico.chave] || []);
+        const regioes = regionaisSelecionadas.length === dadosCompletos.regionais.length
+          ? ['TODOS']
+          : regionaisSelecionadas;
+        regioes.forEach((regional) => {
+          const combinacao = dadosCompletos.dados?.[servico]?.[mercado]?.[regional];
+          if (combinacao) listas.push(combinacao[grafico.chave] || []);
+        });
       });
     });
 
     const linhas = somarLinhas(listas, grafico.campoCategoria);
     const dados = montarDados(linhas, grafico.categorias, grafico.campoCategoria);
     desenharGrafico(corpo, rodape, legendaMes, dados, grafico.categorias);
+  });
+}
+
+const CATEGORIAS_VENCIMENTO = [
+  { key: 'EM ATRASO', label: 'Em atraso', color: '#a02b2b' },
+  { key: 'VENCE HOJE', label: 'Vence hoje', color: '#e0663f' },
+  { key: 'VENCE 7 DIAS', label: 'Vence em 7 dias', color: '#d6a21e' },
+  { key: 'NO PRAZO', label: 'No prazo', color: '#2f9e6e' },
+  { key: 'PENDENTES', label: 'Pendentes', color: '#2a78d6' },
+];
+
+function linhasMedidasFiltradas(dados, servicos, regionais, medidas) {
+  const todosRegionais = regionais.length === dados.regionais.length;
+  return (dados.medidas?.linhas || []).filter((linha) =>
+    servicos.includes(linha.SERVICO)
+    && (todosRegionais || regionais.includes(linha.REGIONAL))
+    && (linha.GRUPO === 'GRUPO2' || medidas.includes(linha.COD_MEDIDA)),
+  );
+}
+
+function desenharGraficoMedidas(container, linhas, campoGrupo, tituloGrupo) {
+  container.innerHTML = '';
+  const grupos = new Map();
+  linhas.forEach((linha) => {
+    const grupo = linha[campoGrupo] || 'Sem regional';
+    const chave = `${grupo}__${linha.DES_SITUACAO}`;
+    grupos.set(chave, (grupos.get(chave) || 0) + Number(linha.QUANTIDADE));
+  });
+  const nomes = [...new Set(linhas.map((linha) => linha[campoGrupo] || 'Sem regional'))];
+  const maximo = Math.max(...nomes.map((nome) =>
+    CATEGORIAS_VENCIMENTO.reduce((soma, categoria) => soma + (grupos.get(`${nome}__${categoria.key}`) || 0), 0),
+  ), 0);
+  if (!nomes.length || !maximo) {
+    container.innerHTML = '<div class="grafico-vazio">Nenhum dado encontrado para os filtros selecionados.</div>';
+    return;
+  }
+  nomes.forEach((nome) => {
+    const linha = document.createElement('div');
+    linha.className = 'barra-medida';
+    const rotulo = document.createElement('strong');
+    rotulo.className = 'barra-medida__rotulo';
+    rotulo.textContent = nome;
+    const barra = document.createElement('div');
+    barra.className = 'barra-medida__barra';
+    CATEGORIAS_VENCIMENTO.forEach((categoria) => {
+      const valor = grupos.get(`${nome}__${categoria.key}`) || 0;
+      if (!valor) return;
+      const segmento = document.createElement('span');
+      segmento.className = 'barra-medida__segmento';
+      segmento.style.width = `${(valor / maximo) * 100}%`;
+      segmento.style.backgroundColor = categoria.color;
+      segmento.title = `${categoria.label}: ${formatarNumero(valor)}`;
+      barra.appendChild(segmento);
+    });
+    const total = document.createElement('span');
+    total.className = 'barra-medida__total';
+    total.textContent = formatarNumero([...grupos.entries()]
+      .filter(([chave]) => chave.startsWith(`${nome}__`))
+      .reduce((soma, [, valor]) => soma + valor, 0));
+    linha.append(rotulo, barra, total);
+    container.appendChild(linha);
+  });
+}
+
+function atualizarMedidas(dados, servicos, regionais, medidas) {
+  const linhas = linhasMedidasFiltradas(dados, servicos, regionais, medidas);
+  const grupo1 = linhas.filter((linha) => linha.GRUPO === 'GRUPO1');
+  const grupo2 = linhas.filter((linha) => linha.GRUPO === 'GRUPO2');
+  desenharGraficoMedidas(
+    document.querySelector('[data-grafico-medidas="grupo1"] .grafico-medidas-corpo'),
+    grupo1, 'COD_MEDIDA', 'Medida',
+  );
+  desenharGraficoMedidas(
+    document.querySelector('[data-grafico-medidas="grupo2"] .grafico-medidas-corpo'),
+    grupo2, 'COD_MEDIDA', 'Medida',
+  );
+  desenharGraficoMedidas(
+    document.querySelector('[data-grafico-medidas="0070"] .grafico-medidas-corpo'),
+    grupo2.filter((linha) => linha.COD_MEDIDA === '0070'), 'REGIONAL', 'Regional',
+  );
+  const cards = [
+    ['Análise Inicial', ['0019']],
+    ['Análise de Conexão', ['0020', '0021']],
+    ['Orçamento', ['0080']],
+    ['Orçamento Estimado', ['0032', '0086']],
+  ];
+  const elCards = document.getElementById('cards-pendentes');
+  elCards.innerHTML = '';
+  cards.forEach(([label, codigos]) => {
+    const valor = grupo1.filter((linha) => codigos.includes(linha.COD_MEDIDA))
+      .reduce((soma, linha) => soma + Number(linha.QUANTIDADE), 0);
+    elCards.insertAdjacentHTML('beforeend', `
+      <div class="card-publico"><strong>${formatarNumero(valor)}</strong><span>${label}</span></div>
+    `);
   });
 }
 
@@ -444,6 +543,8 @@ async function iniciar() {
   const elErro = document.getElementById('erro-carga');
   const elChipsServico = document.getElementById('chips-servico');
   const elChipsMercado = document.getElementById('chips-mercado');
+  const elChipsRegional = document.getElementById('chips-regional');
+  const elChipsMedida = document.getElementById('chips-medida');
 
   try {
     const resp = await fetch('./data/historico.json', { cache: 'no-store' });
@@ -456,6 +557,10 @@ async function iniciar() {
     // com os dois marcados (= "Todos").
     let servicosSelecionados = SERVICOS_HISTORICO.filter((s) => s !== 'PSAA' && s !== 'PSAI');
     let mercadosSelecionados = [...MERCADOS_HISTORICO];
+    const regionais = dadosCompletos.regionais || [];
+    let regionaisSelecionadas = [...regionais];
+    const medidas = dadosCompletos.medidas?.grupo1Medidas || [];
+    let medidasSelecionadas = [...medidas];
 
     function renderizarFiltros() {
       criarChipMultiFiltro(elChipsServico, {
@@ -464,7 +569,8 @@ async function iniciar() {
         aoMudar: (novaSelecao) => {
           servicosSelecionados = novaSelecao;
           renderizarFiltros();
-          aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados);
+          aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas);
+          atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
         },
       });
       criarChipMultiFiltro(elChipsMercado, {
@@ -473,13 +579,34 @@ async function iniciar() {
         aoMudar: (novaSelecao) => {
           mercadosSelecionados = novaSelecao;
           renderizarFiltros();
-          aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados);
+          aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas);
+          atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
+        },
+      });
+      criarChipMultiFiltro(elChipsRegional, {
+        opcoes: regionais,
+        selecionadas: regionaisSelecionadas,
+        aoMudar: (novaSelecao) => {
+          regionaisSelecionadas = novaSelecao;
+          renderizarFiltros();
+          aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas);
+          atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
+        },
+      });
+      criarChipMultiFiltro(elChipsMedida, {
+        opcoes: medidas,
+        selecionadas: medidasSelecionadas,
+        aoMudar: (novaSelecao) => {
+          medidasSelecionadas = novaSelecao;
+          renderizarFiltros();
+          atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
         },
       });
     }
 
     renderizarFiltros();
-    aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados);
+    aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas);
+    atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
   } catch (err) {
     elAtualizado.textContent = 'Falha ao carregar os dados.';
     elErro.hidden = false;
