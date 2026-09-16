@@ -440,32 +440,81 @@ function desenharGraficoMedidas(container, linhas, campoGrupo, tituloGrupo) {
     container.innerHTML = '<div class="grafico-vazio">Nenhum dado encontrado para os filtros selecionados.</div>';
     return;
   }
-  nomes.forEach((nome) => {
-    const linha = document.createElement('div');
-    linha.className = 'barra-medida';
-    const rotulo = document.createElement('strong');
-    rotulo.className = 'barra-medida__rotulo';
-    rotulo.textContent = nome;
-    const barra = document.createElement('div');
-    barra.className = 'barra-medida__barra';
+  const largura = 900;
+  const altura = 380;
+  const margem = { top: 24, right: 18, bottom: 58, left: 58 };
+  const plotW = largura - margem.left - margem.right;
+  const plotH = altura - margem.top - margem.bottom;
+  const escala = calcularEscalaY(maximo);
+  const svg = svgEl('svg', { viewBox: `0 0 ${largura} ${altura}`, preserveAspectRatio: 'xMidYMid meet' });
+
+  const numTicks = Math.round(escala.max / escala.passo);
+  for (let i = 0; i <= numTicks; i += 1) {
+    const valor = i * escala.passo;
+    const y = margem.top + plotH - (valor / escala.max) * plotH;
+    svg.appendChild(svgEl('line', {
+      x1: margem.left, x2: largura - margem.right, y1: y, y2: y,
+      stroke: 'var(--card-border)', 'stroke-width': 1,
+    }));
+    svg.appendChild(svgEl('text', {
+      x: margem.left - 8, y: y + 4, 'text-anchor': 'end',
+      'font-size': 11, fill: 'var(--text-muted)',
+    }, formatarNumero(valor)));
+  }
+
+  const slot = plotW / nomes.length;
+  const barWidth = Math.min(54, slot * 0.62);
+  nomes.forEach((nome, indice) => {
+    const x = margem.left + indice * slot + (slot - barWidth) / 2;
+    let yCursor = margem.top + plotH;
+    const total = CATEGORIAS_VENCIMENTO.reduce(
+      (soma, categoria) => soma + (grupos.get(`${nome}__${categoria.key}`) || 0), 0,
+    );
     CATEGORIAS_VENCIMENTO.forEach((categoria) => {
       const valor = grupos.get(`${nome}__${categoria.key}`) || 0;
       if (!valor) return;
-      const segmento = document.createElement('span');
-      segmento.className = 'barra-medida__segmento';
-      segmento.style.width = `${(valor / maximo) * 100}%`;
-      segmento.style.backgroundColor = categoria.color;
-      segmento.title = `${categoria.label}: ${formatarNumero(valor)}`;
-      barra.appendChild(segmento);
+      const alturaBarra = (valor / escala.max) * plotH;
+      yCursor -= alturaBarra;
+      const retangulo = svgEl('rect', {
+        x, y: yCursor, width: barWidth, height: alturaBarra,
+        fill: categoria.color, rx: 2,
+        title: `${nome} — ${categoria.label}: ${formatarNumero(valor)}`,
+      });
+      svg.appendChild(retangulo);
+      if (alturaBarra >= 18) {
+        svg.appendChild(svgEl('text', {
+          x: x + barWidth / 2, y: yCursor + alturaBarra / 2 + 4,
+          'text-anchor': 'middle', 'font-size': 10, 'font-weight': 600,
+          fill: '#fff', 'pointer-events': 'none',
+        }, formatarNumero(valor)));
+      }
     });
-    const total = document.createElement('span');
-    total.className = 'barra-medida__total';
-    total.textContent = formatarNumero([...grupos.entries()]
-      .filter(([chave]) => chave.startsWith(`${nome}__`))
-      .reduce((soma, [, valor]) => soma + valor, 0));
-    linha.append(rotulo, barra, total);
-    container.appendChild(linha);
+    svg.appendChild(svgEl('text', {
+      x: x + barWidth / 2, y: margem.top + plotH + 18,
+      'text-anchor': 'middle', 'font-size': 11, fill: 'var(--text-muted)',
+    }, nome));
+    svg.appendChild(svgEl('text', {
+      x: x + barWidth / 2, y: margem.top + plotH - (total / escala.max) * plotH - 8,
+      'text-anchor': 'middle', 'font-size': 10, 'font-weight': 600,
+      fill: 'var(--text-body)',
+    }, formatarNumero(total)));
   });
+  svg.appendChild(svgEl('line', {
+    x1: margem.left, x2: largura - margem.right,
+    y1: margem.top + plotH, y2: margem.top + plotH,
+    stroke: 'var(--card-border)', 'stroke-width': 1,
+  }));
+  container.appendChild(svg);
+
+  const legenda = document.createElement('div');
+  legenda.className = 'grafico-rodape';
+  CATEGORIAS_VENCIMENTO.forEach((categoria) => {
+    const item = document.createElement('span');
+    item.className = 'grafico-rodape__item';
+    item.innerHTML = `<span class="grafico-rodape__swatch" style="background:${categoria.color}"></span>${categoria.label}`;
+    legenda.appendChild(item);
+  });
+  container.appendChild(legenda);
 }
 
 function atualizarMedidas(dados, servicos, regionais, medidas) {
@@ -545,6 +594,18 @@ async function iniciar() {
   const elChipsMercado = document.getElementById('chips-mercado');
   const elChipsRegional = document.getElementById('chips-regional');
   const elChipsMedida = document.getElementById('chips-medida');
+  const abas = [...document.querySelectorAll('[data-aba]')];
+  const conteudosAbas = [...document.querySelectorAll('[data-conteudo-aba]')];
+
+  abas.forEach((aba) => {
+    aba.addEventListener('click', () => {
+      const destino = aba.dataset.aba;
+      abas.forEach((item) => item.classList.toggle('aba--ativa', item === aba));
+      conteudosAbas.forEach((conteudo) => {
+        conteudo.classList.toggle('conteudo-aba--ativa', conteudo.dataset.conteudoAba === destino);
+      });
+    });
+  });
 
   try {
     const resp = await fetch('./data/historico.json', { cache: 'no-store' });

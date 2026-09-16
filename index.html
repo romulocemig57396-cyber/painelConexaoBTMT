@@ -27,22 +27,28 @@
       contagens agregadas por mês e categoria — não contém número de nota, matrícula ou qualquer dado individual.
     </p>
 
-    <section class="filtros-bar" id="filtros">
-      <div class="filtros-bar__campo">
-        <label>Serviço</label>
-        <div id="chips-servico"></div>
-      </div>
-      <div class="filtros-bar__campo">
-        <label>Mercado</label>
-        <div id="chips-mercado"></div>
-      </div>
-      <div class="filtros-bar__campo">
-        <label>Regional</label>
-        <div id="chips-regional"></div>
-      </div>
-    </section>
+    <nav class="abas" aria-label="Seções do painel">
+      <button class="aba aba--ativa" type="button" data-aba="historico">Histórico</button>
+      <button class="aba" type="button" data-aba="pendentes">Serviços Pendentes</button>
+    </nav>
 
-    <div id="area-graficos">
+    <section class="conteudo-aba conteudo-aba--ativa" data-conteudo-aba="historico">
+      <section class="filtros-bar" id="filtros">
+        <div class="filtros-bar__campo">
+          <label>Serviço</label>
+          <div id="chips-servico"></div>
+        </div>
+        <div class="filtros-bar__campo">
+          <label>Mercado</label>
+          <div id="chips-mercado"></div>
+        </div>
+        <div class="filtros-bar__campo">
+          <label>Regional</label>
+          <div id="chips-regional"></div>
+        </div>
+      </section>
+
+      <div id="area-graficos">
       <section class="grafico-wrapper" data-grafico="aprovacao">
         <h2 class="grafico-titulo">Aprovação de pedidos (medida 0019)</h2>
         <p class="grafico-legenda-mes"></p>
@@ -63,9 +69,10 @@
         <div class="grafico-corpo"></div>
         <div class="grafico-rodape"></div>
       </section>
-    </div>
+      </div>
+    </section>
 
-    <section class="pendentes" id="area-pendentes">
+    <section class="conteudo-aba" data-conteudo-aba="pendentes">
       <h2 class="secao-titulo">Medidas pendentes</h2>
       <section class="filtros-bar filtros-bar--pendentes">
         <div class="filtros-bar__campo">
