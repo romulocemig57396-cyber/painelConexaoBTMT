@@ -415,10 +415,12 @@ const CATEGORIAS_VENCIMENTO = [
   { key: 'PENDENTES', label: 'Pendentes', color: '#2a78d6' },
 ];
 
-function linhasMedidasFiltradas(dados, servicos, regionais, medidas) {
+function linhasMedidasFiltradas(dados, servicos, mercados, regionais, medidas) {
   const todosRegionais = regionais.length === dados.regionais.length;
+  const todosMercados = mercados.length === MERCADOS_HISTORICO.length;
   return (dados.medidas?.linhas || []).filter((linha) =>
     servicos.includes(linha.SERVICO)
+    && (todosMercados || mercados.includes(linha.MERCADO))
     && (todosRegionais || regionais.includes(linha.REGIONAL))
     && (linha.GRUPO === 'GRUPO2' || medidas.includes(linha.COD_MEDIDA)),
   );
@@ -517,8 +519,8 @@ function desenharGraficoMedidas(container, linhas, campoGrupo, tituloGrupo) {
   container.appendChild(legenda);
 }
 
-function atualizarMedidas(dados, servicos, regionais, medidas) {
-  const linhas = linhasMedidasFiltradas(dados, servicos, regionais, medidas);
+function atualizarMedidas(dados, servicos, mercados, regionais, medidas) {
+  const linhas = linhasMedidasFiltradas(dados, servicos, mercados, regionais, medidas);
   const grupo1 = linhas.filter((linha) => linha.GRUPO === 'GRUPO1');
   const grupo2 = linhas.filter((linha) => linha.GRUPO === 'GRUPO2');
   desenharGraficoMedidas(
@@ -594,6 +596,8 @@ async function iniciar() {
   const elChipsMercado = document.getElementById('chips-mercado');
   const elChipsRegional = document.getElementById('chips-regional');
   const elChipsMedida = document.getElementById('chips-medida');
+  const elChipsMercadoPendentes = document.getElementById('chips-mercado-pendentes');
+  const elChipsRegionalPendentes = document.getElementById('chips-regional-pendentes');
   const abas = [...document.querySelectorAll('[data-aba]')];
   const conteudosAbas = [...document.querySelectorAll('[data-conteudo-aba]')];
 
@@ -631,7 +635,7 @@ async function iniciar() {
           servicosSelecionados = novaSelecao;
           renderizarFiltros();
           aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas);
-          atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
+          atualizarMedidas(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas, medidasSelecionadas);
         },
       });
       criarChipMultiFiltro(elChipsMercado, {
@@ -641,7 +645,7 @@ async function iniciar() {
           mercadosSelecionados = novaSelecao;
           renderizarFiltros();
           aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas);
-          atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
+          atualizarMedidas(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas, medidasSelecionadas);
         },
       });
       criarChipMultiFiltro(elChipsRegional, {
@@ -651,7 +655,25 @@ async function iniciar() {
           regionaisSelecionadas = novaSelecao;
           renderizarFiltros();
           aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas);
-          atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
+          atualizarMedidas(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas, medidasSelecionadas);
+        },
+      });
+      criarChipMultiFiltro(elChipsMercadoPendentes, {
+        opcoes: MERCADOS_HISTORICO,
+        selecionadas: mercadosSelecionados,
+        aoMudar: (novaSelecao) => {
+          mercadosSelecionados = novaSelecao;
+          renderizarFiltros();
+          atualizarMedidas(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas, medidasSelecionadas);
+        },
+      });
+      criarChipMultiFiltro(elChipsRegionalPendentes, {
+        opcoes: regionais,
+        selecionadas: regionaisSelecionadas,
+        aoMudar: (novaSelecao) => {
+          regionaisSelecionadas = novaSelecao;
+          renderizarFiltros();
+          atualizarMedidas(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas, medidasSelecionadas);
         },
       });
       criarChipMultiFiltro(elChipsMedida, {
@@ -660,7 +682,7 @@ async function iniciar() {
         aoMudar: (novaSelecao) => {
           medidasSelecionadas = novaSelecao;
           renderizarFiltros();
-          atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
+          atualizarMedidas(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas, medidasSelecionadas);
         },
       });
     }
