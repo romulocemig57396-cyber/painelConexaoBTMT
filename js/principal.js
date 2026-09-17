@@ -412,6 +412,7 @@ const CATEGORIAS_VENCIMENTO = [
   { key: 'VENCE HOJE', label: 'Vence hoje', color: '#e0663f' },
   { key: 'VENCE 7 DIAS', label: 'Vence em 7 dias', color: '#d6a21e' },
   { key: 'NO PRAZO', label: 'No prazo', color: '#2f9e6e' },
+  { key: 'SEM VENCIMENTO REGULATÓRIO', label: 'Sem vencimento regulatório', color: '#898781' },
   { key: 'PENDENTES', label: 'Pendentes', color: '#2a78d6' },
 ];
 
