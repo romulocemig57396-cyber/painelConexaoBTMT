@@ -689,7 +689,13 @@ async function iniciar() {
 
     renderizarFiltros();
     aplicarFiltros(dadosCompletos, servicosSelecionados, mercadosSelecionados, regionaisSelecionadas);
-    atualizarMedidas(dadosCompletos, servicosSelecionados, regionaisSelecionadas, medidasSelecionadas);
+    atualizarMedidas(
+      dadosCompletos,
+      servicosSelecionados,
+      mercadosSelecionados,
+      regionaisSelecionadas,
+      medidasSelecionadas,
+    );
   } catch (err) {
     elAtualizado.textContent = 'Falha ao carregar os dados.';
     elErro.hidden = false;
