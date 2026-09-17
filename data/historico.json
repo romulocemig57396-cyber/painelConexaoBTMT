@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-17T10:40:44.052Z",
+  "geradoEm": "2026-09-17T14:25:17.489Z",
   "servicos": [
     "COMT",
     "COBT",
@@ -33,102 +33,97 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "CE",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 414
+        "QUANTIDADE": 50
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "CE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 150
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "CE",
         "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "CE",
+        "COD_MEDIDA": "0032",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "CE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 565
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 209
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0032",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 3
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
         "COD_MEDIDA": "0032",
-        "DES_SITUACAO": "VENCE 7 DIAS",
+        "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "CE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
         "COD_MEDIDA": "0032",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 231
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 99
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0086",
-        "DES_SITUACAO": "NO PRAZO",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
         "QUANTIDADE": 2
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0086",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0019",
-        "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 751
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0032",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0032",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 5
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "EM ATRASO",
@@ -137,31 +132,188 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 775
+        "QUANTIDADE": 119
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 647
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 280
+        "QUANTIDADE": 48
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 254
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 19
+        "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 18
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0086",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0086",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 40
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 162
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0032",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 128
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 47
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 61
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 27
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0086",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 2
@@ -169,7 +321,8 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "LE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0086",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 1
@@ -177,30 +330,52 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 340
+        "QUANTIDADE": 115
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "MQ",
-        "COD_MEDIDA": "0032",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 3
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 176
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0032",
-        "DES_SITUACAO": "VENCE 7 DIAS",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0032",
+        "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0032",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "EM ATRASO",
@@ -209,47 +384,125 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 308
+        "QUANTIDADE": 64
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 182
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 127
+        "QUANTIDADE": 17
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 91
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 9
+        "QUANTIDADE": 8
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0086",
         "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 158
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 53
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NE",
+        "COD_MEDIDA": "0032",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
         "QUANTIDADE": 3
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "NE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 411
+        "QUANTIDADE": 122
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "NE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 53
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0020",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 1
@@ -257,15 +510,8 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0032",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "NE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "EM ATRASO",
         "QUANTIDADE": 3
@@ -273,23 +519,44 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "NE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 425
+        "QUANTIDADE": 104
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "NE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 284
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 193
+        "QUANTIDADE": 39
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "NE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 133
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE HOJE",
         "QUANTIDADE": 5
@@ -297,7 +564,8 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "NE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0086",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 3
@@ -305,7 +573,8 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "NE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0086",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 3
@@ -313,47 +582,224 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "OE",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 349
+        "QUANTIDADE": 190
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 159
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "OE",
         "COD_MEDIDA": "0032",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 5
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 69
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 234
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 29
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 115
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0086",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0086",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0086",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "OE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SL",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 99
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SL",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 43
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 79
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 112
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0032",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 3
+        "QUANTIDADE": 8
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "OE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 312
+        "QUANTIDADE": 54
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "OE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 269
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 138
+        "QUANTIDADE": 23
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "OE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 113
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE HOJE",
         "QUANTIDADE": 7
@@ -361,143 +807,170 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "OE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0086",
         "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0086",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 144
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 159
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 317
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 59
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
         "QUANTIDADE": 2
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COBT",
-        "REGIONAL": "OE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 101
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 20
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
         "COD_MEDIDA": "0086",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "CE",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 307
+        "QUANTIDADE": 23
       },
       {
         "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0032",
-        "DES_SITUACAO": "VENCE 7 DIAS",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "CE",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "EM ATRASO",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "CE",
+        "COD_MEDIDA": "0032",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
         "QUANTIDADE": 5
       },
       {
         "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 287
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 118
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 6
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0086",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 3
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0086",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 266
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "EM ATRASO",
         "QUANTIDADE": 2
       },
       {
         "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 303
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 79
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0086",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0019",
-        "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 30
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
         "COD_MEDIDA": "0020",
         "DES_SITUACAO": "EM ATRASO",
         "QUANTIDADE": 1
@@ -505,23 +978,89 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
         "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "NO PRAZO",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
         "QUANTIDADE": 6
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "CE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 3
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 5
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0020",
         "DES_SITUACAO": "VENCE HOJE",
         "QUANTIDADE": 2
@@ -529,7 +1068,8 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "CE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0021",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 1
@@ -537,31 +1077,35 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0032",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 11
+        "QUANTIDADE": 9
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "CE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 5
+        "QUANTIDADE": 4
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "CE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0086",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 1
@@ -569,47 +1113,53 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "LE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 7
+        "QUANTIDADE": 5
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
         "REGIONAL": "MQ",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NE",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
         "QUANTIDADE": 6
@@ -617,47 +1167,35 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
         "REGIONAL": "NE",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 12
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 2
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
+        "MERCADO": "URBANO",
         "REGIONAL": "NE",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0020",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 2
@@ -665,15 +1203,161 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "NE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SL",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
         "QUANTIDADE": 3
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "NE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SL",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 1
@@ -681,7 +1365,17 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "OE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 9
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
         "QUANTIDADE": 10
@@ -689,70 +1383,7 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0019",
-        "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 6
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0020",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 3
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0019",
-        "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 16
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0020",
         "DES_SITUACAO": "EM ATRASO",
@@ -761,6 +1392,7 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
+        "MERCADO": "RURAL",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0020",
         "DES_SITUACAO": "NO PRAZO",
@@ -769,6 +1401,16 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0020",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0020",
         "DES_SITUACAO": "VENCE 7 DIAS",
@@ -777,6 +1419,7 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
+        "MERCADO": "RURAL",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
@@ -785,6 +1428,16 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
@@ -793,7 +1446,26 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
         "REGIONAL": "CE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "CE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 12
@@ -801,7 +1473,62 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSAF",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 20
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 5
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 9
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 8
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 8
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 3
@@ -809,95 +1536,188 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSAF",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 37
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSAF",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 14
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 26
+        "QUANTIDADE": 10
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 7
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 5
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 7
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 5
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 9
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SL",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 15
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSAF",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 9
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSAF",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSAF",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSAF",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 14
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSAF",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 9
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSAF",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSAF",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 20
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSAF",
-        "REGIONAL": "SL",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 3
@@ -905,23 +1725,62 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSAF",
-        "REGIONAL": "TR",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 5
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
+        "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 4
       },
       {
         "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
         "SERVICO": "PSER",
-        "REGIONAL": "NE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 1
@@ -929,46 +1788,43 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "CE",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 11
+        "QUANTIDADE": 6
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
         "REGIONAL": "CE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 20
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSRP",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 10
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSRP",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE HOJE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "LE",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 14
+        "QUANTIDADE": 8
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
         "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "EM ATRASO",
@@ -977,46 +1833,133 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 40
+        "QUANTIDADE": 25
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 15
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 17
+        "QUANTIDADE": 8
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 9
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 19
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 7
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 12
+        "QUANTIDADE": 10
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 12
+        "QUANTIDADE": 4
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 11
+        "QUANTIDADE": 9
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE HOJE",
@@ -1025,23 +1968,53 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "NE",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
-        "QUANTIDADE": 8
+        "QUANTIDADE": 4
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
         "REGIONAL": "NE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 18
+        "QUANTIDADE": 12
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
-        "REGIONAL": "NE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 8
@@ -1049,7 +2022,89 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "OE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 12
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 9
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SL",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SL",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
         "QUANTIDADE": 5
@@ -1057,39 +2112,35 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 21
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSRP",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
         "QUANTIDADE": 6
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0019",
-        "DES_SITUACAO": "PENDENTES",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 13
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
-        "REGIONAL": "SL",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 24
+        "QUANTIDADE": 13
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
-        "REGIONAL": "SL",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 5
@@ -1097,6 +2148,16 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0019",
         "DES_SITUACAO": "PENDENTES",
@@ -1105,14 +2166,43 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
         "REGIONAL": "TR",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 10
+        "COD_MEDIDA": "0019",
+        "DES_SITUACAO": "PENDENTES",
+        "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 8
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
@@ -1121,47 +2211,71 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSSG",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 11
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
         "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 9
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSSG",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 2
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSSG",
-        "REGIONAL": "MQ",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 20
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSSG",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 4
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSSG",
-        "REGIONAL": "NE",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 10
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 3
@@ -1169,39 +2283,125 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSSG",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO1",
-        "SERVICO": "PSSG",
-        "REGIONAL": "OE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 17
+        "QUANTIDADE": 9
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSSG",
-        "REGIONAL": "OE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "VENCE 7 DIAS",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
         "QUANTIDADE": 6
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSSG",
-        "REGIONAL": "SL",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
         "COD_MEDIDA": "0080",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 9
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSSG",
-        "REGIONAL": "SL",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 4
@@ -1209,47 +2409,242 @@
       {
         "GRUPO": "GRUPO1",
         "SERVICO": "PSSG",
-        "REGIONAL": "TR",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SL",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SL",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
         "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 3
       },
       {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 47
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0070",
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 37
+        "QUANTIDADE": 5
       },
       {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0070",
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 88
+        "QUANTIDADE": 2
       },
       {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE HOJE",
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO1",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0080",
+        "DES_SITUACAO": "SEM VENCIMENTO REGULATÓRIO",
         "QUANTIDADE": 2
       },
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "COBT",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 53
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 291
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 30
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 140
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 204
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 27
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 23
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 19
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 17
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 21
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 48
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0804",
         "DES_SITUACAO": "EM ATRASO",
         "QUANTIDADE": 1
@@ -1257,7 +2652,8 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "COBT",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0805",
         "DES_SITUACAO": "EM ATRASO",
         "QUANTIDADE": 2
@@ -1265,702 +2661,601 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "COBT",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 328
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 170
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 226
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 4
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 145
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 45
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 130
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0700",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
-        "COD_MEDIDA": "0805",
+        "COD_MEDIDA": "0070",
         "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 7
+        "QUANTIDADE": 27
       },
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "COBT",
+        "MERCADO": "RURAL",
         "REGIONAL": "MQ",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 6
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "NE",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 45
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 84
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 190
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 30
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0700",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 36
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 102
       },
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "COBT",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 40
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0700",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 7
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 7
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 104
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 52
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 7
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0700",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 4
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 9
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 97
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 87
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 11
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0700",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COBT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 6
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
         "REGIONAL": "MQ",
-        "COD_MEDIDA": "0720",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0700",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0720",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "SL",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0720",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "COMT",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0805",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 3
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 9
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 8
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 11
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 20
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 10
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 15
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 3
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 3
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 4
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 3
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 6
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 4
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSAF",
-        "REGIONAL": "TR",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE HOJE",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 6
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 6
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 26
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 5
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 9
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 34
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 83
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0700",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 25
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "EM ATRASO",
         "QUANTIDADE": 7
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "MQ",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 3
+        "QUANTIDADE": 26
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "MQ",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 64
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 6
+        "QUANTIDADE": 124
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "NE",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 4
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 45
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "NE",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 3
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 22
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "NE",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
         "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 5
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0700",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "NE",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 22
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 14
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 16
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 86
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 33
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 7
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0700",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0700",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 5
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 15
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 105
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 50
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 10
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0700",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 27
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 14
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 91
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 99
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 28
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "VENCE HOJE",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 15
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0700",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COBT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0720",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0720",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
         "REGIONAL": "NE",
         "COD_MEDIDA": "0720",
         "DES_SITUACAO": "VENCE 7 DIAS",
@@ -1968,23 +3263,620 @@
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
-        "REGIONAL": "OE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 4
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 2
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
         "REGIONAL": "OE",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0700",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0720",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "COMT",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0805",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "CE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "NO PRAZO",
         "QUANTIDADE": 4
       },
       {
         "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 7
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 13
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 9
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 7
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 8
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 7
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 5
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSAF",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
         "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 13
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 13
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 6
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 5
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE HOJE",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "OE",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "VENCE 7 DIAS",
@@ -1993,7 +3885,35 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSRP",
-        "REGIONAL": "SL",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 7
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
+        "REGIONAL": "TR",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "EM ATRASO",
         "QUANTIDADE": 1
@@ -2001,14 +3921,7 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSRP",
-        "REGIONAL": "SL",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 10
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSRP",
+        "MERCADO": "URBANO",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "VENCE 7 DIAS",
@@ -2017,6 +3930,7 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "VENCE HOJE",
@@ -2024,16 +3938,54 @@
       },
       {
         "GRUPO": "GRUPO2",
-        "SERVICO": "PSSG",
-        "REGIONAL": "CE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
+        "SERVICO": "PSRP",
+        "MERCADO": "RURAL",
+        "REGIONAL": "TR",
+        "COD_MEDIDA": "0720",
+        "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSSG",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 4
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "LE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "VENCE 7 DIAS",
         "QUANTIDADE": 7
@@ -2041,7 +3993,8 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSSG",
-        "REGIONAL": "CE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MP",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "VENCE HOJE",
         "QUANTIDADE": 2
@@ -2049,63 +4002,17 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSSG",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 5
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSSG",
-        "REGIONAL": "LE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 3
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
         "REGIONAL": "MQ",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "EM ATRASO",
-        "QUANTIDADE": 6
+        "QUANTIDADE": 4
       },
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
         "REGIONAL": "MQ",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 3
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSSG",
-        "REGIONAL": "MQ",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 12
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSSG",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 2
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSSG",
-        "REGIONAL": "NE",
-        "COD_MEDIDA": "0070",
-        "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 1
-      },
-      {
-        "GRUPO": "GRUPO2",
-        "SERVICO": "PSSG",
-        "REGIONAL": "OE",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "EM ATRASO",
         "QUANTIDADE": 2
@@ -2113,14 +4020,79 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSSG",
-        "REGIONAL": "OE",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "NO PRAZO",
-        "QUANTIDADE": 8
+        "QUANTIDADE": 2
       },
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 10
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "MQ",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 3
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "NT",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "EM ATRASO",
+        "QUANTIDADE": 2
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "OE",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 7
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
         "REGIONAL": "OE",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "VENCE 7 DIAS",
@@ -2129,6 +4101,7 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
         "REGIONAL": "SL",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "NO PRAZO",
@@ -2137,14 +4110,43 @@
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
         "REGIONAL": "SL",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "VENCE 7 DIAS",
-        "QUANTIDADE": 3
+        "QUANTIDADE": 1
       },
       {
         "GRUPO": "GRUPO2",
         "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "NO PRAZO",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "RURAL",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
+        "REGIONAL": "SU",
+        "COD_MEDIDA": "0070",
+        "DES_SITUACAO": "VENCE 7 DIAS",
+        "QUANTIDADE": 1
+      },
+      {
+        "GRUPO": "GRUPO2",
+        "SERVICO": "PSSG",
+        "MERCADO": "URBANO",
         "REGIONAL": "TR",
         "COD_MEDIDA": "0070",
         "DES_SITUACAO": "NO PRAZO",
